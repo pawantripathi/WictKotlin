@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wict</string>
+    <string name="title_about">About</string>
+    <string name="title_schedule">Schedule</string>
+    <string name="title_location">Location</string>
+    <string name="title_sponsor">Sponsors</string>
+    <string name="title_bios">Bios</string>
+</resources>
