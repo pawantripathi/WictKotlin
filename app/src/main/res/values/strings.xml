@@ -5,4 +5,7 @@
     <string name="title_location">Location</string>
     <string name="title_sponsor">Sponsors</string>
     <string name="title_bios">Bios</string>
+
+    <!-- Action Menu strings -->
+    <string name="am_register_title">Register</string>
 </resources>

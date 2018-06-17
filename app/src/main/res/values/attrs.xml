@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WTextView">
+        <attr name="typeface" format="enum">
+            <enum name="bold" value="1" />
+            <enum name="bolditalics" value="2" />
+            <enum name="black" value="3" />
+            <enum name="blackitalics" value="4" />
+            <enum name="light" value="5" />
+            <enum name="lightitalics" value="6" />
+            <enum name="medium" value="7" />
+            <enum name="mediumitalics" value="8" />
+            <enum name="regular" value="9" />
+            <enum name="regularitalics" value="10" />
+            <enum name="thin" value="11" />
+            <enum name="thinitalics" value="12" />
+        </attr>
+
+        <attr name="isAccessibilityEnabled" format="boolean"/>
+
+        <attr name="animateChanges" format="boolean"/>
+
+    </declare-styleable>
+
+</resources>

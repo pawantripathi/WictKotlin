@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <wict.wictphiladelphia.org.wict.ui.WTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/title"
+        android:text="Title"
+        android:textSize="18sp"
+        android:paddingTop="4dp"
+        android:paddingBottom="4dp"
+        app:typeface="medium"/>
+
+    <wict.wictphiladelphia.org.wict.ui.WTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/sub_title"
+        android:text="SubTitle"
+        android:textSize="14sp"
+        android:paddingTop="4dp"
+        android:paddingBottom="4dp"
+        app:typeface="light"/>
+
+    <wict.wictphiladelphia.org.wict.ui.WTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/speakers"
+        android:text="Speakers"
+        android:textSize="14sp"
+        android:paddingTop="4dp"
+        android:paddingBottom="4dp"
+        app:typeface="regular"/>
+
+    <wict.wictphiladelphia.org.wict.ui.WTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/location"
+        android:text="Location"
+        android:textSize="14sp"
+        android:paddingTop="4dp"
+        android:paddingBottom="4dp"/>
+
+
+
+
+
+</LinearLayout>
