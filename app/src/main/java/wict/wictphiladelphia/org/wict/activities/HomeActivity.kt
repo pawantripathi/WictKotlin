@@ -1,8 +1,10 @@
 package wict.wictphiladelphia.org.wict.activities
 
 import android.annotation.SuppressLint
+import android.content.Intent
 import android.content.res.Resources
 import android.graphics.Color
+import android.net.Uri
 import android.os.Bundle
 import android.support.design.internal.BottomNavigationItemView
 import android.support.design.internal.BottomNavigationMenuView
@@ -14,8 +16,10 @@ import android.support.v7.widget.Toolbar
 import android.util.Log
 import android.view.Menu
 import android.view.MenuItem
+import android.view.View
 import android.view.WindowManager
 import android.widget.Button
+import android.widget.ImageView
 import android.widget.Toast
 import kotlinx.android.synthetic.main.activity_home.*
 import kotlinx.android.synthetic.main.toolbar.*
@@ -24,9 +28,6 @@ import wict.wictphiladelphia.org.wict.R.color.*
 import wict.wictphiladelphia.org.wict.fragments.*
 
 class HomeActivity : AppCompatActivity() {
-
-
-
 
     private val mOnNavigationItemSelectedListener = BottomNavigationView.OnNavigationItemSelectedListener { item ->
 
@@ -132,8 +133,9 @@ class HomeActivity : AppCompatActivity() {
         supportActionBar?.setDisplayHomeAsUpEnabled(false)
         supportActionBar?.setDisplayShowTitleEnabled(false)
 
-
-
+        am_register.setOnClickListener{
+            launchRegistration(resources.getString(R.string.registration_url))
+        }
 
     }
 
@@ -144,6 +146,26 @@ class HomeActivity : AppCompatActivity() {
 
     }
 
+
+    fun launchMap(view: View){
+
+        val mapUri = Uri.parse(String.format("geo:0,0?q=%s", resources.getString(R.string.location)))
+        val mapIntent = Intent(Intent.ACTION_VIEW, mapUri)
+        mapIntent.`package` ="com.google.android.apps.maps"
+
+        startActivity(mapIntent)
+
+    }
+
+    fun launchRegistration(url: String){
+        val registerURI = Uri.parse(url)
+        val openUrl = Intent(Intent.ACTION_VIEW, registerURI)
+        startActivity(openUrl)
+    }
+
+    fun showUniversityMap(view: View){
+        UniversityMap.show(this)
+    }
 
     @SuppressLint("RestrictedApi")
     fun BottomNavigationView.disableShiftMode() {

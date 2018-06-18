@@ -1,18 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout
+<LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    xmlns:app="http://schemas.android.com/apk/res-auto">
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="16dp">
 
     <wict.wictphiladelphia.org.wict.ui.WTextView
-        android:id="@+id/locate"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="Locate"
-        android:gravity="center"
-        android:padding="8dp"
+        android:layout_height="wrap_content"
+        android:text="@string/location_invite"
         app:typeface="regular"
+        android:textSize="16sp"
         />
-</android.support.constraint.ConstraintLayout>
+
+    <wict.wictphiladelphia.org.wict.ui.WTextView
+        android:id="@+id/location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/location"
+        app:typeface="regular"
+        android:textSize="18sp"
+        android:textColor="@color/indigo"
+        android:onClick="launchMap"
+        />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:id="@+id/location_map"
+        android:src="@drawable/map"
+        android:scaleType="centerCrop"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        android:onClick="launchMap"/>
+
+    <wict.wictphiladelphia.org.wict.ui.WButton
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:gravity="center"
+        android:id="@+id/university_map"
+        android:text="University Map"
+        android:textColor="@color/solid_white"
+        android:background="@color/pink"
+        app:typeface="medium"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        android:padding="8dp"
+        android:textSize="16sp"
+        android:onClick="showUniversityMap"
+        />
+</LinearLayout>
