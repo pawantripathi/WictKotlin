@@ -2,13 +2,14 @@ package wict.wictphiladelphia.org.wict.adaptors
 
 import android.content.Context
 import android.support.v7.widget.RecyclerView
+import android.text.TextUtils
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import kotlinx.android.synthetic.main.schedule_row_item.view.*
+import org.w3c.dom.Text
 import wict.wictphiladelphia.org.wict.R
-
 import wict.wictphiladelphia.org.wict.models.Schedule
 
 class SchedulesAdapter(private val scheduleList: ArrayList<Schedule>,
@@ -28,14 +29,39 @@ class SchedulesAdapter(private val scheduleList: ArrayList<Schedule>,
 
         val schedule = scheduleList.get(position)
         holder.titleView.text = schedule.title
+        holder.subTitleView.text = schedule.subTitle
+        holder.speakersView.text = schedule.speakers
+        holder.locationView.text = schedule.location
+        holder.timeView.text = schedule.time
+
+        if (TextUtils.isEmpty(schedule.subTitle)){
+            holder.subTitleView.visibility = View.GONE
+        }else{
+            holder.subTitleView.visibility = View.VISIBLE
+        }
+
+        if (TextUtils.isEmpty(schedule.speakers)){
+            holder.speakersView.visibility = View.GONE
+        }else{
+            holder.speakersView.visibility = View.VISIBLE
+        }
+
+        if (TextUtils.isEmpty(schedule.location)){
+            holder.locationView.visibility = View.GONE
+        }else{
+            holder.locationView.visibility = View.VISIBLE
+        }
 
     }
-
-
 
 
 }
 
 class ViewHolder(view: View): RecyclerView.ViewHolder(view){
     val titleView: TextView = view.title
+    val subTitleView: TextView = view.sub_title
+    val speakersView: TextView = view.speakers
+    val timeView : TextView = view.time
+    val locationView:TextView = view.location
+
 }

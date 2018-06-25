@@ -6,13 +6,19 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <wict.wictphiladelphia.org.wict.ui.WTextView
-        android:id="@+id/biodata"
+    <android.support.v7.widget.RecyclerView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="Biodata"
+        android:id="@+id/bios_list"/>
+
+    <wict.wictphiladelphia.org.wict.ui.WTextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/bio_status_text"
+        android:visibility="gone"
+        android:textColor="@color/solid_red"
+        android:text="Something went wrong"
         android:gravity="center"
-        app:typeface="regular"
-        android:padding="8dp"
+        android:textSize="18sp"
         />
 </android.support.constraint.ConstraintLayout>

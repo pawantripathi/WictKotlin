@@ -1,53 +1,92 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:orientation="vertical"
     android:padding="8dp"
-    xmlns:app="http://schemas.android.com/apk/res-auto">
+    android:orientation="vertical">
 
-    <wict.wictphiladelphia.org.wict.ui.WTextView
+
+
+    <android.support.v7.widget.CardView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/title"
-        android:text="Title"
-        android:textSize="18sp"
-        android:paddingTop="4dp"
-        android:paddingBottom="4dp"
-        app:typeface="medium"/>
+        app:cardMaxElevation="1dp"
+        app:cardElevation="0.7dp"
+        app:cardPreventCornerOverlap="true"
+        app:cardUseCompatPadding="true">
 
-    <wict.wictphiladelphia.org.wict.ui.WTextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/sub_title"
-        android:text="SubTitle"
-        android:textSize="14sp"
-        android:paddingTop="4dp"
-        android:paddingBottom="4dp"
-        app:typeface="light"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="8dp">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                >
 
-    <wict.wictphiladelphia.org.wict.ui.WTextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/speakers"
-        android:text="Speakers"
-        android:textSize="14sp"
-        android:paddingTop="4dp"
-        android:paddingBottom="4dp"
-        app:typeface="regular"/>
+                <wict.wictphiladelphia.org.wict.ui.WTextView
+                    android:id="@+id/time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="4dp"
+                    android:paddingTop="4dp"
+                    android:text="Time"
+                    android:textColor="@color/indigo"
+                    android:textSize="14sp"
+                    app:typeface="black" />
 
-    <wict.wictphiladelphia.org.wict.ui.WTextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/location"
-        android:text="Location"
-        android:textSize="14sp"
-        android:paddingTop="4dp"
-        android:paddingBottom="4dp"/>
+                <wict.wictphiladelphia.org.wict.ui.WTextView
+                    android:id="@+id/location"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="4dp"
+                    android:layout_weight="1"
+                    android:text="Location"
+                    android:textColor="@color/indigo"
+                    android:textSize="14sp"
+                    app:typeface="bold"
+                    />
+
+
+            </LinearLayout>
+
+            <wict.wictphiladelphia.org.wict.ui.WTextView
+                android:id="@+id/title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Title"
+                android:textSize="20sp"
+                app:typeface="regular" />
+
+            <wict.wictphiladelphia.org.wict.ui.WTextView
+                android:id="@+id/sub_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="4dp"
+                android:text="SubTitle"
+                android:textSize="16sp"
+                app:typeface="regular" />
+
+            <wict.wictphiladelphia.org.wict.ui.WTextView
+                android:id="@+id/speakers"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="4dp"
+                android:text="Speakers"
+                android:textSize="16sp"
+                app:typeface="medium" />
 
 
 
+
+
+        </LinearLayout>
+
+
+    </android.support.v7.widget.CardView>
 
 
 </LinearLayout>

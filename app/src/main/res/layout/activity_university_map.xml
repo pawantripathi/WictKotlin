@@ -12,7 +12,7 @@
 
     <include
         android:id="@+id/toolbarView"
-        layout="@layout/university_map_toolbar"
+        layout="@layout/title_only_toolbar"
       />
 
 

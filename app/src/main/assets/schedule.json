@@ -1,0 +1,242 @@
+[
+    {
+        "Time": "8:00am - 10:00am",
+        "Title": "Registration and Continental Breakfast",
+        "Subtitle": "",
+        "Location": "Connelly Center",
+        "Speakers": "",
+        "Label": ""
+    },
+    {
+        "Time": "8:00am - 5:15pm",
+        "Title": "Sponsor Showcase",
+        "Subtitle": "",
+        "Location": "",
+        "Speakers": "",
+        "Label": ""
+    },
+    {
+        "Time": "9:00am - 11:30am",
+        "Title": "Morning General Sessions",
+        "Subtitle": "",
+        "Location": "Connelly Center, Villanova Room",
+        "Speakers": "",
+        "Label": ""
+    },
+    {
+        "Time": "8:45am - 9:15am",
+        "Title": "PhillyBloco – Brazilian Music to Shake Your Body and Soul",
+        "Subtitle": "",
+        "Location": "TBD",
+        "Speakers": "",
+        "Label": ""
+    },
+    {
+        "Time": "9:10am",
+        "Title": "Chris Power and Alexa",
+        "Subtitle": "",
+        "Location": "",
+        "Speakers": "",
+        "Label": ""
+    },
+    {
+        "Time": "9:15am - 9:25am",
+        "Title": "Orientation",
+        "Subtitle": "WICT Philadelphia Co-Directors, Tech It Out 2018",
+        "Location": "TBD",
+        "Speakers": "Michele Corsini, Senior Director of Solution Management, Comcast and Mary Malone, Principal Engineer, Comcast",
+        "Label": ""
+    },
+    {
+        "Time": "9:25am - 9:35am",
+        "Title": "Welcome to Villanova",
+        "Subtitle": "",
+        "Location": "TBD",
+        "Speakers": "Dr. Amanda Grannas, Associate Vice Provost for Research, Villanova University",
+        "Label": ""
+    },
+    {
+        "Time": "9:35am - 9:40am",
+        "Title": "Introduction of Opening Remarks",
+        "Subtitle": "",
+        "Location": "TBD",
+        "Speakers": "Maria E. Brennan, President and CEO of Women in Cable Telecommunications (WICT)",
+        "Label": ""
+    },
+    {
+        "Time": "9:40am - 9:55am",
+        "Title": "Opening Remarks",
+        "Subtitle": "",
+        "Location": "TBD",
+        "Speakers": "Nomi Bergman, President, Advance/Newhouse",
+        "Label": ""
+    },
+    {
+        "Time": "9:55am",
+        "Title": "Introduction by ARRIS or Cisco",
+        "Subtitle": "Keynote: The Evolution of Voice Control",
+        "Location": "TBD",
+        "Speakers": "Jeanine Heck, VP Product Development, Founding Product Lead for Comcast’s X1 Voice Remote",
+        "Label": ""
+    },
+    {
+        "Time": "10:25am - 10:40am",
+        "Title": "Break",
+        "Subtitle": "",
+        "Location": "",
+        "Speakers": "",
+        "Label": ""
+    },
+    {
+        "Time": "10:40am - 11:05am",
+        "Title": "Introduction by ARRIS or Cisco",
+        "Subtitle": "The Evolution of Alexa and Voice-Enabled Devices in the Home",
+        "Location": "TBD",
+        "Speakers": "Laura Szkrybalo, Principal, Business Development, Amazon Voice Services",
+        "Label": ""
+    },
+    {
+        "Time": "11:05am - 11:30am",
+        "Title": "Introduction by ARRIS or Cisco",
+        "Subtitle": "Ability Through Innovation: Empowering People with Disabilities",
+        "Location": "TBD",
+        "Speakers": "Joel Moffat, Principal Product Manager and Customer Experience Lead for Comcast’s Accessibility Team, Comcast",
+        "Label": ""
+    },
+    {
+        "Time": "11:30am - 12:45pm",
+        "Title": "Luncheon, Presentation and Film Screening - Introduction by Chris Power and Alexa",
+        "Subtitle": "Building an Inclusive Future Today",
+        "Location": "Connelly Center, Villanova Room",
+        "Speakers": "Jennifer Cloer, Artist and Executive Producer, Wicked Flicks Productions",
+        "Label": ""
+    },
+    {
+        "Time": "12:45pm - 1:00pm",
+        "Title": "Group Photo",
+        "Subtitle": "",
+        "Location": "Front of Connelly Center",
+        "Speakers": "",
+        "Label": ""
+    },
+    {
+        "Time": "1:00pm - 1:45pm",
+        "Title": "#VoiceisCoolAgain: How Next Gen Tools Are Bringing Commerce Back to Basics",
+        "Subtitle": "",
+        "Location": "Connelly Center, Villanova Room",
+        "Speakers": "Anne Teal, Director of Business Solutions, CSG",
+        "Label": "Breakout Session 1 - Track 1"
+    },
+    {
+        "Time": "1:00pm - 1:45pm",
+        "Title": "From Screens to Scenes: Voice in the Digital Home",
+        "Subtitle": "",
+        "Location": "Connelly Center, Villanova Cinema",
+        "Speakers": "Mariel Sabraw, Senior Product Manager, Comcast and Bryan Kissinger, Product Director on the Digital Home team, Comcast",
+        "Label": "Breakout Session 1 - Track 2"
+    },
+    {
+        "Time": "1:00pm - 1:45pm",
+        "Title": "Beyond Television: Voice Control in the Digital Home",
+        "Subtitle": "",
+        "Location": "Connelly Center, Villanova Cinema",
+        "Speakers": "Brian Kissinger, Director, Product Management, Comcast",
+        "Label": "Breakout Session 1 - Track 2"
+    },
+    {
+        "Time": "1:00pm - 1:45pm",
+        "Title": "Why Isn’t Voice Used More Widely? Four Key Challenges Facing Adoption",
+        "Subtitle": "",
+        "Location": "Bartley Hall,  Room 3010",
+        "Speakers": "Kyree Holmes, User Experience Researcher, Comcast | Founder, Onyx Valley",
+        "Label": "Breakout Session 1 - Track 3"
+    },
+    {
+        "Time": "1:00pm - 1:45pm",
+        "Title": "Designing Seamless and Secure Digital Experiences While Maximizing Trust and Velocity at Scale",
+        "Subtitle": "",
+        "Location": "Bartley Hall, Room 023A",
+        "Speakers": "Rajat Vijayvargiya, Senior Business Technology Architect, CA Technologies",
+        "Label": "Breakout Session 1 - Track 4"
+    },
+    {
+        "Time": "2:00pm - 2:45pm",
+        "Title": "Prototyping Voice Control and AI Video Surveillance",
+        "Subtitle": "",
+        "Location": "Connelly Center, Villanova Room",
+        "Speakers": "Chris Kocks, Director,Internet of Things Practice, Pure Integration",
+        "Label": "Breakout Session 2 - Track 1"
+    },
+    {
+        "Time": "2:00pm - 2:45pm",
+        "Title": "Adoption of Machine Learning in Telecommunications",
+        "Subtitle": "",
+        "Location": "Connelly Center, Villanova Cinema",
+        "Speakers": "David Frigeri, Practice Area Lead, Advanced Analytics and Visualization, Slalom Consulting",
+        "Label": "Breakout Session 2 - Track 2"
+    },
+    {
+        "Time": "2:00pm - 2:45pm",
+        "Title": "Computing at the Edge Still Has an Edge",
+        "Subtitle": "",
+        "Location": "Bartley Hall, Room 023A",
+        "Speakers": "Arun Ravisankar, Senior Engineer, CPE and Home Network, Comcast",
+        "Label": "Breakout Session 2 - Track 3"
+    },
+    {
+        "Time": "2:45pm - 3:15pm",
+        "Title": "Break",
+        "Subtitle": "",
+        "Location": "",
+        "Speakers": "",
+        "Label": ""
+    },
+    {
+        "Time": "3:15pm - 4:00pm",
+        "Title": "TBD - Google Assistant",
+        "Subtitle": "",
+        "Location": "Connelly Center,  Villanova Room",
+        "Speakers": "Sunghee Moon",
+        "Label": "Breakout Session 3 - Track 1"
+    },
+    {
+        "Time": "3:15pm - 4:00pm",
+        "Title": "Alexa at the Children’s Hospital of Philadelphia",
+        "Subtitle": "",
+        "Location": "Connelly Center, Villanova Cinema",
+        "Speakers": "Kelsey Oh, Venture and Innovation Analyst, CHOP and Aaron Mulder, CTO, Chariot Solutions",
+        "Label": "Breakout Session 3 - Track 2"
+    },
+    {
+        "Time": "3:15pm - 4:00pm",
+        "Title": "Enriching Digital Content with AI Speech and Translation",
+        "Subtitle": "",
+        "Location": "Bartley Hall, Room 3010",
+        "Speakers": "LaBrina Loving, Senior Software Engineer, Microsoft",
+        "Label": "Breakout Session 3 - Track 3"
+    },
+    {
+        "Time": "3:15pm - 4:00pm",
+        "Title": "ARRIS Voice Assistants to Manage Home Wi-Fi Devices",
+        "Subtitle": "",
+        "Location": "Bartley Hall, Room 023A",
+        "Speakers": "Satyasree Muralidharan, Software Engineering Manager, ARRIS",
+        "Label": "Breakout Session 3 - Track 4"
+    },
+    {
+        "Time": "4:10pm - 4:30pm",
+        "Title": "Giveaways and Closing",
+        "Subtitle": "",
+        "Location": "Connelly Center, Villanova Room",
+        "Speakers": "",
+        "Label": ""
+    },
+    {
+        "Time": "4:30pm - 5:45pm",
+        "Title": "Reception",
+        "Subtitle": "",
+        "Location": "Connelly Center, Atrium",
+        "Speakers": "",
+        "Label": ""
+    }
+]
