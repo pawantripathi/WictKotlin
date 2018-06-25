@@ -8,13 +8,13 @@
     app:theme="@style/AppTheme.AppToolbar">
 
 
-    <wict.wictphiladelphia.org.wict.ui.WTextView
+    <TextView
         android:id="@+id/toolbar_title"
         style="@style/toolBar_title_style"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        app:typeface="regular" />
+        android:fontFamily="@font/brandon_reg" />
 
 
 </android.support.v7.widget.Toolbar>

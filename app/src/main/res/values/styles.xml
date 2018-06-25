@@ -18,15 +18,19 @@
     <style name="toolBar_title_style">
         <item name="android:textSize">24sp</item>
         <item name="android:textColor">@color/title_text_color</item>
-        <item name="typeface">medium</item>
+        <item name="android:fontFamily">@font/brandon_med</item>
     </style>
 
     <style name="toolBar_secondary_title_style">
         <item name="android:textSize">18sp</item>
         <item name="android:textColor">@color/title_text_color</item>
         <item name="android:layout_marginRight">16dp</item>
-        <item name="typeface">medium</item>
+        <item name="android:fontFamily">@font/brandon_reg</item>
 
+    </style>
+
+    <style name="Widget.BottomNavigationView" parent="Widget.Design.BottomNavigationView">
+        <item name="fontFamily">@font/brandon_med</item>
     </style>
 
 

@@ -6,13 +6,13 @@
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
-    <wict.wictphiladelphia.org.wict.ui.WTextView
+    <TextView
         android:id="@+id/sponsors"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:text="Sponsors"
         android:gravity="center"
         android:padding="8dp"
-        app:typeface="regular"
+        android:fontFamily="@font/brandon_reg"
         />
 </android.support.constraint.ConstraintLayout>

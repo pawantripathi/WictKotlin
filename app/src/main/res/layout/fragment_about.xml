@@ -40,6 +40,7 @@
                 android:background="@color/lavender"
                 android:gravity="center"
                 android:onClick="showLetter"
+                android:textAllCaps="false"
                 android:padding="8dp"
                 android:text="Show Maria Brennan's letter"
                 android:textColor="@color/solid_white"

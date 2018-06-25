@@ -51,34 +51,37 @@
                         android:orientation="vertical"
                         android:padding="8dp">
 
-                        <wict.wictphiladelphia.org.wict.ui.WTextView
+                        <TextView
                             android:id="@+id/profile_name"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Designation"
                             android:textColor="@color/lavender"
-                            android:textSize="22sp" />
+                            android:textSize="22sp"
+                            android:fontFamily="@font/brandon_reg"/>
 
-                        <wict.wictphiladelphia.org.wict.ui.WTextView
+                        <TextView
                             android:id="@+id/profile_designation"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Designation"
                             android:textColor="@color/lavender"
-                            android:textSize="14sp" />
+                            android:textSize="14sp"
+                            android:fontFamily="@font/brandon_reg"/>
 
                     </LinearLayout>
 
                 </LinearLayout>
 
 
-                <wict.wictphiladelphia.org.wict.ui.WTextView
+                <TextView
                     android:id="@+id/profile_summary"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:padding="8dp"
                     android:text="Some text"
-                    android:textSize="16sp" />
+                    android:textSize="16sp"
+                    android:fontFamily="@font/brandon_reg"/>
 
             </LinearLayout>
 

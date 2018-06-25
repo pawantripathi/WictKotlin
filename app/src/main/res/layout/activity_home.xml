@@ -29,6 +29,7 @@
         android:background="?android:attr/windowBackground"
         app:itemIconTint="@drawable/bottom_nav_highlight"
         app:itemTextColor="@drawable/bottom_nav_highlight"
-        app:menu="@menu/navigation" />
+        app:menu="@menu/navigation"
+        android:theme="@style/Widget.BottomNavigationView"/>
 
 </LinearLayout>

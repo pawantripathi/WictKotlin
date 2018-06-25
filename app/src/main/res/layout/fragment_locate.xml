@@ -8,20 +8,20 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:padding="16dp">
 
-    <wict.wictphiladelphia.org.wict.ui.WTextView
+    <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/location_invite"
-        app:typeface="regular"
+        android:fontFamily="@font/brandon_reg"
         android:textSize="16sp"
         />
 
-    <wict.wictphiladelphia.org.wict.ui.WTextView
+    <TextView
         android:id="@+id/location"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/location"
-        app:typeface="regular"
+        android:fontFamily="@font/brandon_reg"
         android:textSize="18sp"
         android:textColor="@color/indigo"
         android:onClick="launchMap"
@@ -37,7 +37,7 @@
         android:layout_marginBottom="16dp"
         android:onClick="launchMap"/>
 
-    <wict.wictphiladelphia.org.wict.ui.WButton
+    <Button
         android:layout_width="match_parent"
         android:layout_height="48dp"
         android:gravity="center"
@@ -45,11 +45,12 @@
         android:text="University Map"
         android:textColor="@color/solid_white"
         android:background="@color/pink"
-        app:typeface="medium"
+        android:fontFamily="@font/brandon_med"
         android:layout_marginTop="16dp"
         android:layout_marginBottom="16dp"
         android:padding="8dp"
         android:textSize="16sp"
         android:onClick="showUniversityMap"
+        android:textAllCaps="false"
         />
 </LinearLayout>

@@ -11,7 +11,7 @@
         android:layout_height="match_parent"
         android:id="@+id/schedule_list"/>
 
-    <wict.wictphiladelphia.org.wict.ui.WTextView
+    <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:id="@+id/status_text"
@@ -20,5 +20,6 @@
         android:text="Something went wrong"
         android:gravity="center"
         android:textSize="18sp"
+        android:fontFamily="@font/brandon_reg"
         />
 </android.support.constraint.ConstraintLayout>

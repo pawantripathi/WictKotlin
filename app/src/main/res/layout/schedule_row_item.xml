@@ -27,7 +27,7 @@
                 android:orientation="horizontal"
                 >
 
-                <wict.wictphiladelphia.org.wict.ui.WTextView
+                <TextView
                     android:id="@+id/time"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -36,48 +36,49 @@
                     android:text="Time"
                     android:textColor="@color/indigo"
                     android:textSize="14sp"
-                    app:typeface="black" />
+                    android:fontFamily="@font/brandon_blk" />
 
-                <wict.wictphiladelphia.org.wict.ui.WTextView
+                <TextView
                     android:id="@+id/location"
                     android:layout_width="wrap_content"
+                    android:fontFamily="@font/brandon_bld"
                     android:layout_height="wrap_content"
                     android:paddingTop="4dp"
                     android:layout_weight="1"
                     android:text="Location"
                     android:textColor="@color/indigo"
                     android:textSize="14sp"
-                    app:typeface="bold"
+
                     />
 
 
             </LinearLayout>
 
-            <wict.wictphiladelphia.org.wict.ui.WTextView
+            <TextView
                 android:id="@+id/title"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Title"
                 android:textSize="20sp"
-                app:typeface="regular" />
+                android:fontFamily="@font/brandon_med" />
 
-            <wict.wictphiladelphia.org.wict.ui.WTextView
+            <TextView
                 android:id="@+id/sub_title"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:paddingBottom="4dp"
                 android:text="SubTitle"
                 android:textSize="16sp"
-                app:typeface="regular" />
+                android:fontFamily="@font/brandon_light" />
 
-            <wict.wictphiladelphia.org.wict.ui.WTextView
+            <TextView
                 android:id="@+id/speakers"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:paddingTop="4dp"
                 android:text="Speakers"
                 android:textSize="16sp"
-                app:typeface="medium" />
+                android:fontFamily="@font/brandon_reg" />
 
 
 

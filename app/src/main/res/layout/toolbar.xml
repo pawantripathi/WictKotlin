@@ -12,16 +12,16 @@
         android:layout_height="wrap_content"
         android:orientation="horizontal">
 
-        <wict.wictphiladelphia.org.wict.ui.WTextView
+        <TextView
             android:id="@+id/toolbar_title"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            app:typeface="regular"
+            android:fontFamily="@font/brandon_reg"
             style="@style/toolBar_title_style"/>
 
 
-        <wict.wictphiladelphia.org.wict.ui.WTextView
+        <TextView
             android:id="@+id/am_register"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"

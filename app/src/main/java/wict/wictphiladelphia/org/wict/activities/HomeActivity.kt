@@ -2,8 +2,6 @@ package wict.wictphiladelphia.org.wict.activities
 
 import android.annotation.SuppressLint
 import android.content.Intent
-import android.content.res.Resources
-import android.graphics.Color
 import android.net.Uri
 import android.os.Bundle
 import android.support.design.internal.BottomNavigationItemView
@@ -31,8 +29,6 @@ class HomeActivity : AppCompatActivity() {
     private val mOnNavigationItemSelectedListener = BottomNavigationView.OnNavigationItemSelectedListener { item ->
 
         var childFragment:Fragment? = supportFragmentManager.findFragmentById(R.id.fragment_container)
-
-
 
         when (item.itemId) {
             R.id.navigation_about ->{
@@ -166,6 +162,10 @@ class HomeActivity : AppCompatActivity() {
         UniversityMap.show(this)
     }
 
+    fun showLetter(view:View){
+        Letter.show(this)
+    }
+
     @SuppressLint("RestrictedApi")
     fun BottomNavigationView.disableShiftMode() {
         val tag = "disableShift"
@@ -187,5 +187,10 @@ class HomeActivity : AppCompatActivity() {
         } catch (e: IllegalStateException) {
             Log.e(tag, "Unable to change value of shift mode", e)
         }
+    }
+
+
+    override fun onBackPressed() {
+        finish()
     }
 }
