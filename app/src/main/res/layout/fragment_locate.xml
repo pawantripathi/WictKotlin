@@ -1,56 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:padding="16dp">
+    android:orientation="vertical">
 
-    <TextView
+    <android.support.v7.widget.CardView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/location_invite"
-        android:fontFamily="@font/brandon_reg"
-        android:textSize="16sp"
-        />
+        android:layout_margin="8dp"
+        app:cardElevation="0.7dp"
+        app:cardMaxElevation="1dp"
+        app:cardPreventCornerOverlap="true"
+        app:cardUseCompatPadding="true">
 
-    <TextView
-        android:id="@+id/location"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/location"
-        android:fontFamily="@font/brandon_reg"
-        android:textSize="18sp"
-        android:textColor="@color/indigo"
-        android:onClick="launchMap"
-        />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="8dp">
 
-    <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="250dp"
-        android:id="@+id/location_map"
-        android:src="@drawable/map"
-        android:scaleType="centerCrop"
-        android:layout_marginTop="16dp"
-        android:layout_marginBottom="16dp"
-        android:onClick="launchMap"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/brandon_reg"
+                android:text="@string/location_invite"
+                android:textSize="16sp" />
 
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="48dp"
-        android:gravity="center"
-        android:id="@+id/university_map"
-        android:text="University Map"
-        android:textColor="@color/solid_white"
-        android:background="@color/pink"
-        android:fontFamily="@font/brandon_med"
-        android:layout_marginTop="16dp"
-        android:layout_marginBottom="16dp"
-        android:padding="8dp"
-        android:textSize="16sp"
-        android:onClick="showUniversityMap"
-        android:textAllCaps="false"
-        />
+            <TextView
+                android:id="@+id/location"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/brandon_reg"
+                android:onClick="launchMap"
+                android:text="@string/location"
+                android:textColor="@color/indigo"
+                android:textSize="18sp" />
+
+            <ImageView
+                android:id="@+id/location_map"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:layout_marginBottom="16dp"
+                android:layout_marginTop="16dp"
+                android:onClick="launchMap"
+                android:scaleType="centerCrop"
+                android:src="@drawable/map" />
+
+            <Button
+                android:id="@+id/university_map"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:layout_marginBottom="16dp"
+                android:layout_marginTop="16dp"
+                android:background="@color/pink"
+                android:fontFamily="@font/brandon_med"
+                android:gravity="center"
+                android:onClick="showUniversityMap"
+                android:padding="8dp"
+                android:text="University Map"
+                android:textAllCaps="false"
+                android:textColor="@color/solid_white"
+                android:textSize="16sp" />
+
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
 </LinearLayout>
