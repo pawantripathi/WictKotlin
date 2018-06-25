@@ -19,7 +19,7 @@ public class Schedule {
             InputStream scheduleStream = context.getAssets().open("schedule.json");
             return gson.fromJson(new InputStreamReader(scheduleStream, "utf-8"), Schedule[].class);
         } catch (IOException e) {
-            Log.w("BiodataNew", "Unable to read json", e);
+            Log.w("ScheduleNew", "Unable to read json", e);
             throw e;
         }
 

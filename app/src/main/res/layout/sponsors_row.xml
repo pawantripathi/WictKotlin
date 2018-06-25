@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/category_title"
+            android:padding="8dp"
+            android:fontFamily="@font/brandon_med"
+            android:textSize="18sp"/>
+
+        <com.google.android.flexbox.FlexboxLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:id="@+id/wrapped_children_container"
+            app:flexWrap="wrap"
+            app:flexDirection="row"
+            app:alignItems="flex_start"
+            app:alignContent="space_between">
+
+        </com.google.android.flexbox.FlexboxLayout>
+
+    </LinearLayout>
+
+</merge>

@@ -1,0 +1,34 @@
+[
+{
+	"Category": 1,
+	"Title":"WICT Global Tech It Out Sponsors",
+	"Sponsors":["arris.png","cisco.png"]
+},
+{
+	"Category": 2,
+	"Title":"WICT Global Tech It Out Industry Partners",
+	"Sponsors":["kaitz.png","namic.png"]
+},
+{
+	"Category": 3,
+	"Title":"Premier Sponsors",
+	"Sponsors":["cisco.png","comcastbusiness.png","tpx.png"]
+},
+{
+	"Category": 4,
+	"Title":"Platinum Sponsors",
+	"Sponsors":["arris.png","pwc.png","qvc.png","scte.png","signature.png"]
+},
+{
+	"Category": 5,
+	"Title":"Gold Sponsors",
+	"Sponsors":["ae.png","amdocs.png","eplus.png","espn.png","hbo.png","juniper.png","optia.png","pureintegration.png"]
+},
+{
+	"Category": 6,
+	"Title":"Gold Sponsors",
+	"Sponsors":["partners.png","stafftech.png"]
+}
+
+]
+
