@@ -8,6 +8,9 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
+import com.bumptech.glide.Glide
+import com.bumptech.glide.Glide.init
+import com.bumptech.glide.RequestManager
 import kotlinx.android.synthetic.main.bios_row_item.view.*
 import kotlinx.android.synthetic.main.schedule_row_item.view.*
 import org.w3c.dom.Text
@@ -18,6 +21,13 @@ import wict.wictphiladelphia.org.wict.models.Schedule
 class BiosAdapter(private val biosList: ArrayList<Biodata>,
                   private val context: Context,
                   private val listener: (Biodata) -> Unit) : RecyclerView.Adapter<BiosViewHolder>() {
+
+    private var glide:RequestManager?= null
+
+    init {
+        glide = Glide.with(context)
+
+    }
 
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): BiosViewHolder {
@@ -35,7 +45,8 @@ class BiosAdapter(private val biosList: ArrayList<Biodata>,
         val biodata = biosList.get(position)
         holder.nameView.text = biodata.name
         holder.designationView.text = biodata.designation
-        holder.avatarView.setImageResource(biodata.imageRes)
+//        holder.avatarView.setImageResource(biodata.imageRes)
+        glide!!.load(biodata.imageRes).into(holder.avatarView)
 
 
         holder.itemView.setOnClickListener {

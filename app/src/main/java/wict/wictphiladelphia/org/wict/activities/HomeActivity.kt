@@ -38,7 +38,7 @@ class HomeActivity : AppCompatActivity() {
 
                 loadFragment(childFragment, "about", R.id.fragment_container)
                 changeStatusBarColor(lavendar!!)
-                toolbar_title.text = "About"
+                toolbar_title.text = resources.getString(R.string.fragment_title_about)
 
                 return@OnNavigationItemSelectedListener true
 
@@ -50,7 +50,7 @@ class HomeActivity : AppCompatActivity() {
 
                 loadFragment(childFragment, "schedule", R.id.fragment_container)
                 changeStatusBarColor(indigo!!)
-                toolbar_title.text = "Schedule"
+                toolbar_title.text = resources.getString(R.string.title_schedule)
 
                 return@OnNavigationItemSelectedListener true
 
@@ -61,7 +61,7 @@ class HomeActivity : AppCompatActivity() {
                 }
                 loadFragment(childFragment, "location", R.id.fragment_container)
                 changeStatusBarColor(pink!!)
-                toolbar_title.text = "Location"
+                toolbar_title.text = resources.getString(R.string.title_location)
 
                 return@OnNavigationItemSelectedListener true
 
@@ -71,7 +71,7 @@ class HomeActivity : AppCompatActivity() {
                     childFragment = SponsorsFragment.newInstance()
                 }
                 loadFragment(childFragment, "sponsor", R.id.fragment_container)
-                toolbar_title.text = "Sponsor"
+                toolbar_title.text = resources.getString(R.string.title_sponsor)
                 changeStatusBarColor(cyan!!)
                 return@OnNavigationItemSelectedListener true
             }
@@ -80,7 +80,7 @@ class HomeActivity : AppCompatActivity() {
                     childFragment = BiosFragment.newInstance()
                 }
 
-                toolbar_title.text = "Bios"
+                toolbar_title.text = resources.getString(R.string.title_bios)
                 changeStatusBarColor(lavendar!!)
                 loadFragment(childFragment, "bio", R.id.fragment_container)
                 return@OnNavigationItemSelectedListener true
@@ -122,7 +122,7 @@ class HomeActivity : AppCompatActivity() {
         navigation.disableShiftMode()
 
         navigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener)
-        navigation.selectedItemId = R.id.navigation_about
+        navigation.selectedItemId = R.id.navigation_schedule
 
         setSupportActionBar(toolbarView as Toolbar?)
         supportActionBar?.setDisplayHomeAsUpEnabled(false)
