@@ -59,7 +59,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Title"
-                android:textSize="20sp"
+                android:textSize="18sp"
                 android:fontFamily="@font/brandon_med" />
 
             <TextView
