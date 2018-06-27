@@ -55,7 +55,12 @@ class SponsorsFragment: Fragment(){
 
         for (info in sponsors){
             val sponsorCategoryView = ChildWrappingContainer(activity, info.title, info.sponsorIcons)
-            main_container.addView(sponsorCategoryView)
+            if (info.category == 1){
+                main_container.addView(sponsorCategoryView)
+            }else{
+                secondary_container.addView(sponsorCategoryView)
+            }
+
             sponsorCategoryView.lazyLoad(activity)
         }
 
