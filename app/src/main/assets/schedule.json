@@ -16,18 +16,18 @@
         "Label": ""
     },
     {
-        "Time": "9:00am - 11:30am",
-        "Title": "Morning General Sessions",
-        "Subtitle": "",
-        "Location": "Connelly Center, Villanova Room",
-        "Speakers": "",
-        "Label": ""
-    },
-    {
         "Time": "8:45am - 9:15am",
         "Title": "PhillyBloco – Brazilian Music to Shake Your Body and Soul",
         "Subtitle": "",
         "Location": "TBD",
+        "Speakers": "",
+        "Label": ""
+    },
+    {
+        "Time": "9:00am - 11:30am",
+        "Title": "Morning General Sessions",
+        "Subtitle": "",
+        "Location": "Connelly Center, Villanova Room",
         "Speakers": "",
         "Label": ""
     },
@@ -73,10 +73,10 @@
     },
     {
         "Time": "9:55am",
-        "Title": "Introduction by ARRIS or Cisco",
+        "Title": "Introduction by By Jodi Friedman, VP Sales, ARRIS",
         "Subtitle": "Keynote: The Evolution of Voice Control",
         "Location": "TBD",
-        "Speakers": "Jeanine Heck, VP Product Development, Founding Product Lead for Comcast’s X1 Voice Remote",
+        "Speakers": "Jeanine Heck, VP, AI Product, Comcast",
         "Label": ""
     },
     {
@@ -89,7 +89,7 @@
     },
     {
         "Time": "10:40am - 11:05am",
-        "Title": "Introduction by ARRIS or Cisco",
+        "Title": "Introduction by Cisco",
         "Subtitle": "The Evolution of Alexa and Voice-Enabled Devices in the Home",
         "Location": "TBD",
         "Speakers": "Laura Szkrybalo, Principal, Business Development, Amazon Voice Services",
@@ -108,7 +108,7 @@
         "Title": "Luncheon, Presentation and Film Screening - Introduction by Chris Power and Alexa",
         "Subtitle": "Building an Inclusive Future Today",
         "Location": "Connelly Center, Villanova Room",
-        "Speakers": "Jennifer Cloer, Artist and Executive Producer, Wicked Flicks Productions",
+        "Speakers": "Jennifer Cloer, Creator and Executive Producer, The Chasing Grace Project",
         "Label": ""
     },
     {
@@ -133,14 +133,6 @@
         "Subtitle": "",
         "Location": "Connelly Center, Villanova Cinema",
         "Speakers": "Mariel Sabraw, Senior Product Manager, Comcast and Bryan Kissinger, Product Director on the Digital Home team, Comcast",
-        "Label": "Breakout Session 1 - Track 2"
-    },
-    {
-        "Time": "1:00pm - 1:45pm",
-        "Title": "Beyond Television: Voice Control in the Digital Home",
-        "Subtitle": "",
-        "Location": "Connelly Center, Villanova Cinema",
-        "Speakers": "Brian Kissinger, Director, Product Management, Comcast",
         "Label": "Breakout Session 1 - Track 2"
     },
     {
@@ -220,7 +212,7 @@
         "Title": "ARRIS Voice Assistants to Manage Home Wi-Fi Devices",
         "Subtitle": "",
         "Location": "Bartley Hall, Room 023A",
-        "Speakers": "Satyasree Muralidharan, Software Engineering Manager, ARRIS",
+        "Speakers": "Satya Muralidharan, Software Engineering Manager, ARRIS",
         "Label": "Breakout Session 3 - Track 4"
     },
     {
