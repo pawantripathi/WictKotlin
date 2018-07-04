@@ -4,11 +4,15 @@ import android.content.Context
 import android.content.Intent
 import android.os.Bundle
 import android.support.v4.content.res.ResourcesCompat
+import android.support.v4.text.util.LinkifyCompat
 import android.support.v7.widget.Toolbar
 import android.text.Html
+import android.text.method.LinkMovementMethod
+import android.text.util.Linkify
 import android.view.MenuItem
 import android.view.WindowManager
 import kotlinx.android.synthetic.main.activity_profile_details.*
+import kotlinx.android.synthetic.main.fragment_about.*
 import kotlinx.android.synthetic.main.toolbar.*
 import wict.wictphiladelphia.org.wict.R
 import wict.wictphiladelphia.org.wict.models.Biodata
@@ -61,6 +65,13 @@ class ProfileDetails: ModalActivity(){
             profile_summary.text= Html.fromHtml(profile?.summary)
 
         }
+
+        LinkifyCompat.addLinks(profile_summary, Linkify.ALL)
+        profile_summary.linksClickable = true
+
+        profile_summary.movementMethod = LinkMovementMethod.getInstance()
+
+
     }
 
     override fun onOptionsItemSelected(item: MenuItem?): Boolean {
