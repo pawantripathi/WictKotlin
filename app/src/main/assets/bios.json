@@ -138,6 +138,12 @@
         "Designation": "Senior Director of Solution Management, Product & Experience Organization, Comcast"
     },
     {
+        "Name": "Michelle A. Ray",
+        "Bio": "<p>As the Acting Executive Director of the Walter Kaitz Foundation, Michelle Ray is charged with developing and implementing strategic direction, initiatives and programmatic activities. Michelle works with other national organizations advocating for the social and economic interests of women and ethnic minorities connecting them with the industry’s member companies. Ms. Ray is primarily responsible for developing and managing the process for the distribution of grants to the industry’s three diversity organizations. A graduate of McGill University in Montreal, Canada Michelle has a Bachelor of Arts degree in Economics and Political Science.</p>",
+        "Image": "mray.png",
+        "Designation": "Acting Executive Director, Walter Kaitz Foundation"
+    },
+    {
         "Name": "Mike Stevens",
         "Bio": "<p>Mike Stevens is Director of PhillyBloco, a 23-piece band and Philadelphia’s only Brazilian Funk Orchestra. It is modeled after the blocos of Brasil, with their large percussion sections and harmonic/vocal accompaniment.Mike is also Director of “Penn Samba” at the University of Pennsylvania School of Arts and Sciences; Director of Unidos da Filadelfia, a community-based samba school modeled after the Carnaval parade organizations of Rio de Janeiro and Salvador da Bahia in Brasil; and co-music director of Alo Brasil, one of the premier Brazilian bands performing in the Mid-Atlantic U.S.</p>",
         "Image": "mstevens.png",
@@ -166,5 +172,11 @@
         "Bio": "<p>Satya manages the ECO Self-Service engineering team at ARRIS and is the lead engineer for the product line. She has over 7 years experiencein the telecommunications industry and over 12 years experience in software engineering. Satya attended the University of Kansas, where she earned a master's degree in computer engineering. She enjoys challenges that inspire intelligent solutions and loves working hard with a team to make great things happen.</p>",
         "Image": "smuralidharan.png",
         "Designation": "Manager, ECO Self-Service Team, ARRIS"
+    },
+    {
+        "Name": "Sunghee Moon",
+        "Bio": "<p>Sunghee Moon is the Google Assistant Mobile Lead at Google. Prior to joining the product organization, she was managing US and global sales teams that work with top OEM & telecommunication partners.</p>",
+        "Image": "smoon.png",
+        "Designation": "Google Assistant Mobile Lead, Google"
     }
 ]
