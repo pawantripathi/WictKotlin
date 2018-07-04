@@ -25,6 +25,7 @@ public class SponsorInfo {
         resMapping.put("kaitz.png", R.drawable.kaitz);
         resMapping.put("namic.png", R.drawable.namic);
         resMapping.put("comcastbusiness.png", R.drawable.comcastbusiness);
+        resMapping.put("comcastfreewheel.png", R.drawable.comcastfreewheel);
         resMapping.put("tpx.png", R.drawable.tpx);
 
         resMapping.put("pwc.png", R.drawable.pwc);

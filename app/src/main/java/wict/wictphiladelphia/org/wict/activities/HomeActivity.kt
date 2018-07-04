@@ -166,6 +166,10 @@ class HomeActivity : AppCompatActivity() {
         Letter.show(this)
     }
 
+    fun showThanks(view: View){
+        Thanks.show(this)
+    }
+
     @SuppressLint("RestrictedApi")
     fun BottomNavigationView.disableShiftMode() {
         val tag = "disableShift"

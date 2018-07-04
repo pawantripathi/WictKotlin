@@ -46,6 +46,21 @@
                 android:textColor="@color/solid_white"
                 android:textSize="16sp"
                 android:fontFamily="@font/brandon_med" />
+
+            <Button
+                android:id="@+id/show_thankyou_note"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:background="@color/lavender"
+                android:gravity="center"
+                android:onClick="showThanks"
+                android:textAllCaps="false"
+                android:padding="8dp"
+                android:text="Special thanks to.."
+                android:textColor="@color/solid_white"
+                android:textSize="16sp"
+                android:fontFamily="@font/brandon_med"
+                android:layout_marginTop="8dp"/>
         </LinearLayout>
 
     </android.support.v7.widget.CardView>

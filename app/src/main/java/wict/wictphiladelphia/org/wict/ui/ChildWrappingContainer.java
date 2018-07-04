@@ -15,11 +15,27 @@ import com.bumptech.glide.RequestManager;
 import com.google.android.flexbox.FlexboxLayout;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 
 import wict.wictphiladelphia.org.wict.R;
 
 public class ChildWrappingContainer extends LinearLayout {
     private Context mContext;
+    private LinearLayout.LayoutParams mParams;
+    private static int index = 0;
+    private int[] titleColors = new int[]{
+            R.drawable.indigo_pill,
+            R.drawable.lavendar_pill,
+            R.drawable.pink_pill,
+            R.drawable.blue_pill
+    };
+
+    private int getTitleBkg(){
+        int maxIndex = titleColors.length;
+        int color = titleColors[index % maxIndex];
+        index = index + 1;
+        return color;
+    }
 
     public ChildWrappingContainer(Context context, String title, ArrayList<Integer> children) {
         super(context);
@@ -30,13 +46,19 @@ public class ChildWrappingContainer extends LinearLayout {
 
         mCategoryTitle = this.findViewById(R.id.category_title);
         mChildContainer = this.findViewById(R.id.wrapped_children_container);
+        int sponsorLogoSize = (int)getResources().getDimension(R.dimen.sponsor_logo);
+        int margin = (int)getResources().getDimension(R.dimen.sponsor_logo_margin);
+
+        mParams = new LinearLayout.LayoutParams(sponsorLogoSize, sponsorLogoSize);
+        mParams.setMargins(margin, margin, margin, margin);
 
         mCategoryTitle.setText(title);
+        mCategoryTitle.setBackgroundResource(getTitleBkg());
+
+
         for (int res: children){
-            mChildContainer.addView(getChild(res));
+            mChildContainer.addView(getChild(res), mParams);
         }
-
-
 
     }
 
@@ -63,15 +85,15 @@ public class ChildWrappingContainer extends LinearLayout {
         int count = mChildContainer.getChildCount();
         RequestManager glide = Glide.with(context);
         for (int i=0; i< count; i++){
-            ImageView logo = mChildContainer.getChildAt(i).findViewById(R.id.logo);
+            ImageView logo = (ImageView) mChildContainer.getChildAt(i);
             glide.load(mChildren.get(i)).into(logo);
 
         }
     }
 
     private View getChild(int imageRes){
-        View child = mInflater.inflate(R.layout.logo_view, null, false);
-        return child;
+        return mInflater.inflate(R.layout.logo_view, null, false);
+
 
     }
 }
