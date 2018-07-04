@@ -1,182 +1,182 @@
 [
-    {
-        "Name": "Aaron Mulder",
-        "Bio": "<p>As Chief Technology Officer & Director, Aaron Mulder is responsible for Chariot Solutions' technical development standards, policies and style guidelines. He maintains structured workflow between project leaders and developers, and mentors lead developers and architects. Aaron is a published author on topics such as WebLogic Server and EJB and presented at conferences including JavaOne and TheServerSide Java Symposium. Prior to joining Chariot Solutions, he worked for technology firms including Skylight Systems and Andersen Consulting (now Accenture). He graduated from Princeton University with a B.S.E. degree in Aerospace Engineering and a certificate in Physics.</p>",
-        "Image": "amulder.png",
-        "Designation": "CTO, Chariot Solutions"
-    },
-    {
-        "Name": "Amanda Grannas",
-        "Bio": "<p>Dr. Amanda M. Grannas is Professor of Chemistry and Associate Vice Provost for Researchat Villanova University. She completed her BS in chemistry and math at Juniata College in 1998 and obtained a PhD in analytical chemistry from Purdue University in 2002. Dr. Grannas was a postdoctoral scholar at The Ohio State University with a joint appointment in the Departments of Chemistry and Geological Sciences. Since joining the Villanova faculty in 2005, Dr. Grannas has established a thriving research group focused on environmental/atmospheric chemistry and has mentored over 40 research students. She is a prominent and internationally known expert in snow chemistry.</p>",
-        "Image": "agrannas.png",
-        "Designation": "Villanova - Professor of Chemistry and Associate Vice Provost for Research"
-    },
-    {
-        "Name": "Anne Teal",
-        "Bio": "<p>Anne Teal is a Director of Business Development at CSG, where she serves as a guide to CSG’s network of partners and customers helping them modernize their communications systems for the digital economy. A customer communications professional for over 25 years, she specializes in automated, interactive communications. Her passion forcreating meaningful, personalized and relevantconnections betweenbusinesses and their customers has defined her tenure over the last 10 years at CSG.Anneis a native of Omaha, Nebraska, where she attended the University of Nebraska and lives today with her family and two dogs.</p>",
-        "Image": "ateal.png",
-        "Designation": "Director of Business Development at CSG"
-    },
-    {
-        "Name": "Arun Ravisankar",
-        "Bio": "<p>Arun Ravisankarr is a Sr Engineer with Comcast Labs. His responsibilitiesinclude next-gen Tele-Health and health care solutions for Comcast Connected Health. That includes working on IoT standards, and using IoT for activity monitoring and researching RF monitoring technologies.He has 12 years of experience with set-top boxesand digital TV technologies, having worked on broadcast standards like ATSC, DVB, MPEG A/V, and the RDK software stack. He’s been hands-on with many advanced A/V formats and the webRTC protocols. A self-described Linux-freak, Arun never tires of learning about operating systems. He’s a great fan of embedded programming and has found new love in the IoT and machine learning landscapes.</p>",
-        "Image": "aravisankar.png",
-        "Designation": "Senior Engineer, Comcast Labs"
-    },
-    {
-        "Name": "Bryan Kissinger",
-        "Bio": "<p>Bryan Kissinger is a Product Director on the Digital Home team at Comcast. In this role, Bryan focuses on crafting the voice interface for IoT device control and innovating with the X1 platform to create differentiated security experiences on the TV.  Since joining Comcast in 2008, Bryan has been relentlessly focused on simple solutions that solve real customer problems. Bryan received BS and MS degrees in Psychology from Saint Joseph’s University and more recently completed a part-time MBA program at Temple University, graduating in 2015.  He currently lives in Philadelphia enjoys spending time with his wife and new baby girl.</p>",
-        "Image": "bkissinger.png",
-        "Designation": "Product Director, Digital Home Team, Comcast"
-    },
-    {
-        "Name": "Chris Kocks",
-        "Bio": "<p>ChrisKocks is a Director at pureIntegration and partners with cable operators to develop, test, and deploy connected products and solutions. He has over 25 years expertise working for Accenture, Cox Communications, GM and other leading firms. Chrishas delivered dozens of innovative open platform products, connected deviceand security solutions in the telecommunications, automotive, and health industries.</p>",
-        "Image": "ckocks.png",
-        "Designation": "Director, Internet of Things Practice, Pure Integration"
-    },
-    {
-        "Name": "Christopher Power",
-        "Bio": "<p>Chris Power is a Senior Principal Engineer at Comcast, where he is part of the cloud solutions architecture team helping to accelerate cloud adoption. He enjoys learning and applying new technologiesand is an active participant internally in conferences, architectural working groups and the promotion of open source. In his previous role at Comcast, Chris was responsible for architecting big data platforms on public and private cloud infrastructure including OpenStack and AWS and later focused on metrics instrumentation for performance engineering, operational visibility and alerting.</p>",
-        "Image": "cpower.png",
-        "Designation": "Sr Principal Engineer at Comcast"
-    },
-    {
-        "Name": "Cindy Key",
-        "Bio": "<p>As the Senior Manager of Business Development & Fulfillment for Women in Cable Telecommunications, Cindy Key focuses on maintaining a strong ROI for WICT’s current partners as well as expanding the sponsor portfolio. Additionally, she assists with activities that fuel growth in non-dues revenue for WICT.  Cindy has been a non-profit association professional for over eight years, with experience in governance management, sponsor development and event planning. Prior to transitioning to the business development, she supported WICT's President & CEO as the Executive Assistant. Cindy graduated summa cum laudefrom Liberty University in 2006 and lives in Washington, DC.</p>",
-        "Image": "ckey.png",
-        "Designation": "Senior Manager of Business Development & Fulfillment, WICT"
-    },
-    {
-        "Name": "David Frigeri",
-        "Bio": "<p>David Frigeri is the Practice Lead –Advanced Analytics and Data Visualization at Slalom Consulting. He has over two decades’ experience designing and implementing enterprise wide data strategies, products and servicesto drive better business outcomes in a variety of industries. David’s teams have built innovative capabilities for collecting, storing, analyzing and visualizing data from various sources that improve customer experience, optimize outcomes and automate time consuming and error-prone processes. David has also introduced a number of data monetization strategies and new business models utilizing APIs, market places and curated data visualizations. David is the author of two pending patents for image recognition.</p>",
-        "Image": "dfrigeri.png",
-        "Designation": "Practice Area Lead, Advanced Analytics and Visualization, Slalom Consulting"
-    },
-    {
-        "Name": "Hetal Vora",
-        "Bio": "<p>Hetal Vora currently works as an Architect-Mobility for Cognizant TechnologySolutions. She has over 9 years of experience in the IT industry. Hetal started out in 2006 as a web developer working mainly on ColdFusion, and mobile apps are what she loves doing now. She started working on iOS in 2009 and has developed app store and enterprise apps for her clients. Hetal also works on hybrid app development. She currently focuses on enterprise mobile apps for Comcast. In her spare time, she enjoys traveling, photography and blogging.</p>",
-        "Image": "hvora.png",
-        "Designation": "Architect - Mobility, CTS"
-    },
-    {
-        "Name": "Jeanine Heck",
-        "Bio": "<p>Jeanine Gubler Heck is Vice President of Artificial Intelligence Product in the Technology and Product organization of Comcast. In this role, Jeanine is leading the company’s efforts to bring artificial intelligence into Xfinity products. She was the founding product manager for the X1 voice remote which allows customers to interact with their TV through intuitive voice commands. Additionally, Jeanine’s team develops other AI products including computer vision algorithms for Xfinity Home cameras, media analytics for TV, and customer experience interactions via an Xfinity virtual assistant.</p><p>Since joining Comcast in 2007, Jeanine has used her entrepreneurial approach to product management to build algorithms that enhance user experiences. Prior to her current role, Jeanine led the launch of a cloud-based TV search engine as well as the company’s first TV recommendations engine.</p><p>In 2012, Jeanine was the founding leader of Comcast’s Women’s Network for its inaugural three years. Jeanine spends her time outside of work encouraging young people to pursue careers in technology.  She sits on the board at her alma mater, St. Hubert High School for Girls, and she mentors computer science students at Lower Merion High School.</p><p>Jeanine received her bachelor’s degree in Computer Science & Engineering from the University of Pennsylvania and an MBA from Columbia University. She lives in the Philadelphia area with her husband and 4 children.</p>",
-        "Image": "jheck.png",
-        "Designation": "Comcast - VP Product Development"
-    },
-    {
-        "Name": "Jennifer Cloer",
-        "Bio": "<p>Jennifer Cloer is the creator of <a href='https://www.chasinggracefilm.com'>The Chasing Grace Project</a>,a docuseries about women in tech in production now. Her career has been dedicated to telling the stories that have defined a generation of technology developers, from Linux creator Linus Torvalds to the men and women who started Creative Commons and Google’s first I/O Conference. For more than 15 years, Jennifer has been a woman in tech and has been recognized for her storytelling acumen by BusinessInsider, who ranked her among <a href='http://www.businessinsider.com/the-pr-50-2013-2013-9#no-30-jennifer-cloer-linux-foundation-22'>the best PR people in tech</a>.CIO.com also identified her as one of <a href='https://www.cio.com/article/3066864/open-source-tools/ones-to-watch-influential-women-in-open-source.html#slide3'>the most influential women in opensource</a>.</p>",
-        "Image": "jcloer.png",
-        "Designation": "Creator, The Chasing Grace Project"
-    },
-    {
-        "Name": "Jeremy Keen",
-        "Bio": "<p>Jeremy Keen, Google Cloud Customer Engineer. Customer Engineers at Google Cloud work closely with customers to accelerate adoption of Google Cloud Platform through knowledge sharing, hands-on workshops, and by building Proof-of-Concepts. Jeremy has GoogleHomes in nearly every room of his house and enjoys building new Actions on Google Assistant to voice enable his numerous gadgets. A proud owner of a 3D printer and small maker home workshop, Jeremy has a passion for building fun and sometimes useful gadgets.Jeremy has been designing and implementing data center technology for 15 years in various consulting roles and most recently worked at Dell EMC as a Cloud Architect.</p>",
-        "Image": "jkeen.png",
-        "Designation": "Google Cloud Customer Engineer"
-    },
-    {
-        "Name": "Joanna Dees",
-        "Bio": "<p>Joanna Dees is WICT’s Vice President of Educational Programs. In this role, she leads the delivery of WICT’s suite of programs including over a dozen professional trainings and two conferences annually.  She has spent her career seeking to expand economic opportunities for communities that have been excluded, serving as VP of Global Programs and Corporate Relations at the National Gay & Lesbian Chamber of Commerce and leadingex-offender reentry efforts at the Noisette Foundation. Joanna earned her BA in Sociology and Psychology from the College of William & Mary and a Master of Arts degree in Sociology at American University.</p>",
-        "Image": "jdees.png",
-        "Designation": "Vice President of Educational Programs, WICT"
-    },
-    {
-        "Name": "Joel Moffat",
-        "Bio": "<p>Joel Moffatt is the Principal Product Manager and Customer Experience Lead for Comcast’s Accessibility Team. He helps drive customer-focused strategy throughengagement with disability community thought leaders, fostering product knowledge within the Accessibility Customer Support Center, managing the Comcast Accessibility Lab and ensuring that accessibility is integrated in Comcast’s culture. Joel joined Comcast’s Accessibility Team in 2013 and has worked on the launches of the X1 talking guide, Comcast’s Accessibility Lab and the Accessibility Support Center. He cultivates customer feedback and relationships that directly influence the accessibility of XFINITY products for people with disabilities.</p>",
-        "Image": "jmoffat.png",
-        "Designation": "Principle Product Manager, CX Lead, Accessibility, Comcast"
-    },
-    {
-        "Name": "Kelsey Oh",
-        "Bio": "<p>Kelsey Oh is with the Children’s Hospital of Philadelphia’s Office of Entrepreneurship & Innovation (OEI), which encourages an entrepreneurial spirit  byidentifying and promoting innovative pediatric healthcare solutions. She helps CHOP employees develop ideas, challenge assumptions and build proof-of-concept products to test product viability, resulting in spinout companies, licensable assets and alternative revenue streams. Before joining OEI in 2016, Kelsey managed CHOP'S FDA-funded medical device consortium, facilitating connections with medical device developers, hospital leadership, and the FDA to generate devices for pediatric patients. Prior to joining CHOP, she earned her degree in Biomedical Engineering and worked in the medical device industry.</p>",
-        "Image": "koh.png",
-        "Designation": "Venture and Innovation Analyst, Children’s Hospital of Philadelphia"
-    },
-    {
-        "Name": "Kyree Holmes",
-        "Bio": "<p>Kyree is a proud native Philadelphian who has lived all across the city. Originally on track to pursue a career in marketing, she serendipitously discovered the user experience field and fell in love with it. She is currently a User Experience Researcher at Comcast, leading efforts to enhance the X1 voice remote control.Kyree foundedOnyx Valley, a community building organization designed to identify and prepare diverse talent for careers in the tech field. Kyree is a graduate of Howard University’s School of Business and completed her Master’s degree in Design at Carnegie Mellon University.</p>",
-        "Image": "kholmes.png",
-        "Designation": "User Experience Researcher, Comcast | Founder, Onyx Valley"
-    },
-    {
-        "Name": "LaBrina Loving",
-        "Bio": "<p>LaBrina Loving is a Senior Software Engineerat Microsoft with over 18 years of experience in software development. She works with companies in the Communications and Media space to leverage the cloud for cutting edge technologies like artificial intelligence and chatbots, IoT, mobile and analytics. Prior to joining Microsoft in 2016, LaBrinaworked with several consulting organizationshelping Fortune 500 companies and Government agencies transform their business through innovative solutions. She is passionate about ensuring there are more women and minorities in STEM careers and is active in the developer community speaking and volunteering at eventsthroughout the world.</p>",
-        "Image": "lloving.png",
-        "Designation": "Microsoft"
-    },
-    {
-        "Name": "Laura Szkrybalo",
-        "Bio": "<p>Laura leads the Alexa Voice Service (AVS) Technology and Solution Provider Business Development team at Amazon. Her team is responsible for building technology enablement initiatives that provide support to device makers creating Alexa-enabled products. Prior to joining the AVS team in early 2015, Laura was responsible for technology and content licensing in the Amazon Devices organization.  Laura has spent the vast majority of her 20+ year career in business development and sales roles in a variety of industries to include online media and aviation.</p>",
-        "Image": "lszkrybalo.png",
-        "Designation": "Principal, Business Development, Amazon Voice Services"
-    },
-    {
-        "Name": "Maria Brennan",
-        "Bio": "<p>Maria E. Brennan, CAE, is the President & CEO of Women in Cable Telecommunications (WICT), a 10,000 member global nonprofit serving women in cable media. During her tenure at WICT, Brennan has worked collaboratively with its leaders and stakeholders to steer the organization’s strategic vision, resulting in record levels of membership, program participation, and sponsor engagement. In addition, Brennan serves on the Women’s Leadership Board at Harvard University, is a charter member of the FCC’s Diversity Advisory Board, and a Commissioner for theGirl Scouts Healthy Media Council. Brennan is the recipient of NCTA’s Vanguard Award, CableFax’s Most Powerful Women in Cable, and EXCEL Awardfor her byline, “Hear Me Roar.”</p>",
-        "Image": "mbrennan.png",
-        "Designation": "President & CEO, Women in Cable Telecommunications (WICT)"
-    },
-    {
-        "Name": "Mariel Sabraw",
-        "Bio": "<p>Mariel Sabraw is a Senior Product Manager at Comcast. In this role, Mariel focuses on developing hardware products that promote engagement with voice features. Since joining Comcast in 2013, Mariel has managed product development of remote controls and works closely with UX designers and engineers to develop hardware and software for the voice remote that is now in over 20 million homes. Mariel receivedbachelor’s degrees in Economics and Broadcast Production from the University of Colorado at Boulder. She currently lives in Philadelphia and enjoys a just-close-enough-to-walk commute to the Comcast Center.</p>",
-        "Image": "msabraw.png",
-        "Designation": "Senior Product Manager, Comcast"
-    },
-    {
-        "Name": "Mary Malone",
-        "Bio": "<p>Mary Malone, Principal Engineer at Comcast, holds an M.S. in Computer Science from Villanova University and a B.A. in Computer Science from La Salle University. Working as a Systems Engineer, Architect and Software Developer for over 25 years, she has beendesigning and developing software systems and leading teams in taking new and emerging technologies and translating them into real world applications for consumers and businesses. She joined Comcast in 2007 and currently works in the TPX,Network & Communications Servicesorganization.Mary “moonlights” as a musician, and can regularly be found playing Irish Trad fiddle in gigs around Philly.</p>",
-        "Image": "mmalone.png",
-        "Designation": "Principal Engineer, Comcast"
-    },
-    {
-        "Name": "Michele Corsini",
-        "Bio": "<p>As part of Comcast Cable's Technology, Product & Experience Organization, Michele Corsini serves as the Senior Director of Solution Management.  Michele is a seasoned Telecommunications Business and Technology leader with 20 years of experiencecrafting solutions across an array of products, services and technology stacks. Michele has been an active member of Women in Cable Telecommunications (WICT) since 2011. She is a WICT Greater Philadelphia Chapter Board member and currently serves as the Tech It Out Director. When not immersed in “data”, Michele enjoys spending time with her husband, four children and two dogs. She loves the beach, travel and home redesign projects.</p>",
-        "Image": "mcorsini.png",
-        "Designation": "Senior Director of Solution Management, Product & Experience Organization, Comcast"
-    },
-    {
-        "Name": "Michelle A. Ray",
-        "Bio": "<p>As the Acting Executive Director of the Walter Kaitz Foundation, Michelle Ray is charged with developing and implementing strategic direction, initiatives and programmatic activities. Michelle works with other national organizations advocating for the social and economic interests of women and ethnic minorities connecting them with the industry’s member companies. Ms. Ray is primarily responsible for developing and managing the process for the distribution of grants to the industry’s three diversity organizations. A graduate of McGill University in Montreal, Canada Michelle has a Bachelor of Arts degree in Economics and Political Science.</p>",
-        "Image": "mray.png",
-        "Designation": "Acting Executive Director, Walter Kaitz Foundation"
-    },
-    {
-        "Name": "Mike Stevens",
-        "Bio": "<p>Mike Stevens is Director of PhillyBloco, a 23-piece band and Philadelphia’s only Brazilian Funk Orchestra. It is modeled after the blocos of Brasil, with their large percussion sections and harmonic/vocal accompaniment.Mike is also Director of “Penn Samba” at the University of Pennsylvania School of Arts and Sciences; Director of Unidos da Filadelfia, a community-based samba school modeled after the Carnaval parade organizations of Rio de Janeiro and Salvador da Bahia in Brasil; and co-music director of Alo Brasil, one of the premier Brazilian bands performing in the Mid-Atlantic U.S.</p>",
-        "Image": "mstevens.png",
-        "Designation": "Director, PhillyBloco"
-    },
-    {
-        "Name": "Nomi Bergman",
-        "Bio": "<p>Nomi Bergman is a senior executive officer with the Advance/Newhouse companies where she focuses on corporate development and strategic partnerships.Bergman has over 25 years of experience as an operator, investor and advisor to technology companies, where she has focused on mobile, data and video communications, information technology and data services, advanced advertising, and emerging technologies centered on reimagining and improving the customer experience.</p><p>Previously, President of Bright House Networks, Bergman was one of the original Bright House Networks founders; who together led the company to become the sixth-largest cable operator in the United States, with 8,500 employees, 2.5 million customers, and over $4B in annual revenue.</p><p>Bergman presently sits on the corporate board of publicly held Visteon Corporation and privately held 1010data, Mediamorph and Black & Veatch.As a board member at the University of Rochester, she remains closely connected to her alma mater. In addition, she is a board member of Adaptive Spirit, the Cable Center and One Revolution. She is also a longstanding memberof the FCC Technological Advisory Council (TAC), and a part-time Adjunct Professor at Syracuse University.</p>",
-        "Image": "nbergman.png",
-        "Designation": "Senior Executive Officer, Advance/Newhouse"
-    },
-    {
-        "Name": "Pawan Tripathi",
-        "Bio": "<p>Pawan Tripathi is a Principal engineer at Comcast with over 11 years of IT experience. He holds a Bachelor’s degree in Computer Science from Mumbai University. Engaged with Comcast since 2011, he works as a full stack developer and leads reference client development for Android and iOS platforms. He strives to become a polyglot in Programming and Natural Languages, and is versed in Golang, Java, Swift, English and Hindi. Currently, he indulges in Urdu poetry.</p>",
-        "Image": "ptripathi.png",
-        "Designation": "Principal engineer, Comcast"
-    },
-    {
-        "Name": "Rajat Vijayvargiya",
-        "Bio": "<p>Rajat Vijayvargiya is a Senior Business Technology Advisor at CA Technologies and hascombined technology and business leadership experience across Technology, Financial Services/Insurance, Pharma, Life Sciences, Supply-Chain and Not-for-Profit verticals guiding organizational change and business transformation initiatives. He serves as a trusted advisor for Fortune 50 customers, responsible for defining solutions that provide business value to customers and drivs transformation His current areas of focus inlcude: Connected Everything, Continuous Everything, API Economy, Mobile, IoT, Blockchain, FinTech. Raj is an engineering graudate from Drexel University and prior to coming to CA lead Product Management and Development of B2B SaaS portfolio for Big Brothers Big Sisters of America.</p>",
-        "Image": "rvargiya.png",
-        "Designation": "Senior Business Technology Architect, CA Technologies"
-    },
-    {
-        "Name": "Satya Muralidharan",
-        "Bio": "<p>Satya manages the ECO Self-Service engineering team at ARRIS and is the lead engineer for the product line. She has over 7 years experiencein the telecommunications industry and over 12 years experience in software engineering. Satya attended the University of Kansas, where she earned a master's degree in computer engineering. She enjoys challenges that inspire intelligent solutions and loves working hard with a team to make great things happen.</p>",
-        "Image": "smuralidharan.png",
-        "Designation": "Manager, ECO Self-Service Team, ARRIS"
-    },
-    {
-        "Name": "Sunghee Moon",
-        "Bio": "<p>Sunghee Moon is the Google Assistant Mobile Lead at Google. Prior to joining the product organization, she was managing US and global sales teams that work with top OEM & telecommunication partners.</p>",
-        "Image": "smoon.png",
-        "Designation": "Google Assistant Mobile Lead, Google"
-    }
+  {
+    "Name": "Aaron Mulder",
+    "Bio": "<p>As Chief Technology Officer & Director, Aaron Mulder is responsible for Chariot Solutions' technical development standards, policies and style guidelines. He maintains structured workflow between project leaders and developers, and mentors lead developers and architects. Aaron is a published author on topics such as WebLogic Server and EJB and presented at conferences including JavaOne and TheServerSide Java Symposium. Prior to joining Chariot Solutions, he worked for technology firms including Skylight Systems and Andersen Consulting (now Accenture). He graduated from Princeton University with a B.S.E. degree in Aerospace Engineering and a certificate in Physics.</p>",
+    "Image": "amulder.png",
+    "Designation": "CTO, Chariot Solutions"
+  },
+  {
+    "Name": "Amanda Grannas",
+    "Bio": "<p>Dr. Amanda M. Grannas is Professor of Chemistry and Associate Vice Provost for Research at Villanova University. She completed her BS in chemistry and math at Juniata College in 1998 and obtained a PhD in analytical chemistry from Purdue University in 2002. Dr. Grannas was a postdoctoral scholar at The Ohio State University with a joint appointment in the Departments of Chemistry and Geological Sciences. Since joining the Villanova faculty in 2005, Dr. Grannas has established a thriving research group focused on environmental/atmospheric chemistry and has mentored over 40 research students. She is a prominent and internationally known expert in snow chemistry.</p>",
+    "Image": "agrannas.png",
+    "Designation": "Villanova - Professor of Chemistry and Associate Vice Provost for Research"
+  },
+  {
+    "Name": "Anne Teal",
+    "Bio": "<p>Anne Teal is a Director of Business Development at CSG, where she serves as a guide to CSG’s network of partners and customers helping them modernize their communications systems for the digital economy. A customer communications professional for over 25 years, she specializes in automated, interactive communications. Her passion for creating meaningful, personalized and relevant connections between businesses and their customers has defined her tenure over the last 10 years at CSG. Anne is a native of Omaha, Nebraska, where she attended the University of Nebraska and lives today with her family and two dogs.</p>",
+    "Image": "ateal.png",
+    "Designation": "Director of Business Development at CSG"
+  },
+  {
+    "Name": "Arun Ravisankar",
+    "Bio": "<p>Arun Ravisankarr is a Sr Engineer with Comcast Labs. His responsibilities include next-gen Tele-Health and health care solutions for Comcast Connected Health. That includes working on IoT standards, and using IoT for activity monitoring and researching RF monitoring technologies. He has 12 years of experience with set-top boxes and digital TV technologies, having worked on broadcast standards like ATSC, DVB, MPEG A/V, and the RDK software stack. He’s been hands-on with many advanced A/V formats and the webRTC protocols. A self-described Linux-freak, Arun never tires of learning about operating systems. He’s a great fan of embedded programming and has found new love in the IoT and machine learning landscapes.</p>",
+    "Image": "aravisankar.png",
+    "Designation": "Senior Engineer, Comcast Labs"
+  },
+  {
+    "Name": "Bryan Kissinger",
+    "Bio": "<p>Bryan Kissinger is a Product Director on the Digital Home team at Comcast. In this role, Bryan focuses on crafting the voice interface for IoT device control and innovating with the X1 platform to create differentiated security experiences on the TV. Since joining Comcast in 2008, Bryan has been relentlessly focused on simple solutions that solve real customer problems. Bryan received BS and MS degrees in Psychology from Saint Joseph’s University and more recently completed a part-time MBA program at Temple University, graduating in 2015. He currently lives in Philadelphia enjoys spending time with his wife and new baby girl.</p>",
+    "Image": "bkissinger.png",
+    "Designation": "Product Director, Digital Home Team, Comcast"
+  },
+  {
+    "Name": "Chris Kocks",
+    "Bio": "<p>Chris Kocks is a Director at pureIntegration and partners with cable operators to develop, test, and deploy connected products and solutions. He has over 25 years expertise working for Accenture, Cox Communications, GM and other leading firms. Chris has delivered dozens of innovative open platform products, connected device and security solutions in the telecommunications, automotive, and health industries.</p>",
+    "Image": "ckocks.png",
+    "Designation": "Director, Internet of Things Practice, Pure Integration"
+  },
+  {
+    "Name": "Christopher Power",
+    "Bio": "<p>Chris Power is a Senior Principal Engineer at Comcast, where he is part of the cloud solutions architecture team helping to accelerate cloud adoption. He enjoys learning and applying new technologies and is an active participant internally in conferences, architectural working groups and the promotion of open source. In his previous role at Comcast, Chris was responsible for architecting big data platforms on public and private cloud infrastructure including OpenStack and AWS and later focused on metrics instrumentation for performance engineering, operational visibility and alerting.</p>",
+    "Image": "cpower.png",
+    "Designation": "Sr Principal Engineer at Comcast"
+  },
+  {
+    "Name": "Cindy Key",
+    "Bio": "<p>As the Senior Manager of Business Development & Fulfillment for Women in Cable Telecommunications, Cindy Key focuses on maintaining a strong ROI for WICT’s current partners as well as expanding the sponsor portfolio. Additionally, she assists with activities that fuel growth in non-dues revenue for WICT. Cindy has been a non-profit association professional for over eight years, with experience in governance management, sponsor development and event planning. Prior to transitioning to the business development, she supported WICT's President & CEO as the Executive Assistant. Cindy graduated summa cum laudefrom Liberty University in 2006 and lives in Washington, DC.</p>",
+    "Image": "ckey.png",
+    "Designation": "Senior Manager of Business Development & Fulfillment, WICT"
+  },
+  {
+    "Name": "David Frigeri",
+    "Bio": "<p>David Frigeri is the Practice Lead – Advanced Analytics and Data Visualization at Slalom Consulting. He has over two decades’ experience designing and implementing enterprise wide data strategies, products and services to drive better business outcomes in a variety of industries. David’s teams have built innovative capabilities for collecting, storing, analyzing and visualizing data from various sources that improve customer experience, optimize outcomes and automate time consuming and error-prone processes. David has also introduced a number of data monetization strategies and new business models utilizing APIs, market places and curated data visualizations. David is the author of two pending patents for image recognition.</p>",
+    "Image": "dfrigeri.png",
+    "Designation": "Practice Area Lead, Advanced Analytics and Visualization, Slalom Consulting"
+  },
+  {
+    "Name": "Hetal Vora",
+    "Bio": "<p>Hetal Vora currently works as an Architect-Mobility for Cognizant Technology Solutions. She has over 9 years of experience in the IT industry. Hetal started out in 2006 as a web developer working mainly on ColdFusion, and mobile apps are what she loves doing now. She started working on iOS in 2009 and has developed app store and enterprise apps for her clients. Hetal also works on hybrid app development. She currently focuses on enterprise mobile apps for Comcast. In her spare time, she enjoys traveling, photography and blogging.</p>",
+    "Image": "hvora.png",
+    "Designation": "Architect - Mobility, CTS"
+  },
+  {
+    "Name": "Jeanine Heck",
+    "Bio": "<p>Jeanine Gubler Heck is Vice President of Artificial Intelligence Product in the Technology and Product organization of Comcast. In this role, Jeanine is leading the company’s efforts to bring artificial intelligence into Xfinity products. She was the founding product manager for the X1 voice remote which allows customers to interact with their TV through intuitive voice commands. Additionally, Jeanine’s team develops other AI products including computer vision algorithms for Xfinity Home cameras, media analytics for TV, and customer experience interactions via an Xfinity virtual assistant.</p><p>Since joining Comcast in 2007, Jeanine has used her entrepreneurial approach to product management to build algorithms that enhance user experiences. Prior to her current role, Jeanine led the launch of a cloud-based TV search engine as well as the company’s first TV recommendations engine.</p><p>In 2012, Jeanine was the founding leader of Comcast’s Women’s Network for its inaugural three years. Jeanine spends her time outside of work encouraging young people to pursue careers in technology.  She sits on the board at her alma mater, St. Hubert High School for Girls, and she mentors computer science students at Lower Merion High School.</p><p>Jeanine received her bachelor’s degree in Computer Science & Engineering from the University of Pennsylvania and an MBA from Columbia University. She lives in the Philadelphia area with her husband and 4 children.</p>",
+    "Image": "jheck.png",
+    "Designation": "Comcast - VP Product Development"
+  },
+  {
+    "Name": "Jennifer Cloer",
+    "Bio": "<p>Jennifer Cloer is the creator of <a href='https://www.chasinggracefilm.com'>The Chasing Grace Project</a>,a docuseries about women in tech in production now. Her career has been dedicated to telling the stories that have defined a generation of technology developers, from Linux creator Linus Torvalds to the men and women who started Creative Commons and Google’s first I/O Conference. For more than 15 years, Jennifer has been a woman in tech and has been recognized for her storytelling acumen by BusinessInsider, who ranked her among <a href='http://www.businessinsider.com/the-pr-50-2013-2013-9#no-30-jennifer-cloer-linux-foundation-22'>the best PR people in tech</a>.CIO.com also identified her as one of <a href='https://www.cio.com/article/3066864/open-source-tools/ones-to-watch-influential-women-in-open-source.html#slide3'>the most influential women in open source</a>.</p>",
+    "Image": "jcloer.png",
+    "Designation": "Creator, The Chasing Grace Project"
+  },
+  {
+    "Name": "Jeremy Keen",
+    "Bio": "<p>Jeremy Keen, Google Cloud Customer Engineer. Customer Engineers at Google Cloud work closely with customers to accelerate adoption of Google Cloud Platform through knowledge sharing, hands-on workshops, and by building Proof-of-Concepts. Jeremy has GoogleHomes in nearly every room of his house and enjoys building new Actions on Google Assistant to voice enable his numerous gadgets. A proud owner of a 3D printer and small maker home workshop, Jeremy has a passion for building fun and sometimes useful gadgets.Jeremy has been designing and implementing data center technology for 15 years in various consulting roles and most recently worked at Dell EMC as a Cloud Architect.</p>",
+    "Image": "jkeen.png",
+    "Designation": "Google Cloud Customer Engineer"
+  },
+  {
+    "Name": "Joanna Dees",
+    "Bio": "<p>Joanna Dees is WICT’s Vice President of Educational Programs. In this role, she leads the delivery of WICT’s suite of programs including over a dozen professional trainings and two conferences annually. She has spent her career seeking to expand economic opportunities for communities that have been excluded, serving as VP of Global Programs and Corporate Relations at the National Gay & Lesbian Chamber of Commerce and leading ex-offender reentry efforts at the Noisette Foundation. Joanna earned her BA in Sociology and Psychology from the College of William & Mary and a Master of Arts degree in Sociology at American University.</p>",
+    "Image": "jdees.png",
+    "Designation": "Vice President of Educational Programs, WICT"
+  },
+  {
+    "Name": "Joel Moffat",
+    "Bio": "<p>Joel Moffatt is the Principal Product Manager and Customer Experience Lead for Comcast’s Accessibility Team. He helps drive customer-focused strategy through engagement with disability community thought leaders, fostering product knowledge within the Accessibility Customer Support Center, managing the Comcast Accessibility Lab and ensuring that accessibility is integrated in Comcast’s culture. Joel joined Comcast’s Accessibility Team in 2013 and has worked on the launches of the X1 talking guide, Comcast’s Accessibility Lab and the Accessibility Support Center. He cultivates customer feedback and relationships that directly influence the accessibility of XFINITY products for people with disabilities.</p>",
+    "Image": "jmoffat.png",
+    "Designation": "Principle Product Manager, CX Lead, Accessibility, Comcast"
+  },
+  {
+    "Name": "Kelsey Oh",
+    "Bio": "<p>Kelsey Oh is with the Children’s Hospital of Philadelphia’s Office of Entrepreneurship & Innovation (OEI), which encourages an entrepreneurial spirit  by identifying and promoting innovative pediatric healthcare solutions. She helps CHOP employees develop ideas, challenge assumptions and build proof-of-concept products to test product viability, resulting in spinout companies, licensable assets and alternative revenue streams. Before joining OEI in 2016, Kelsey managed CHOP'S FDA-funded medical device consortium, facilitating connections with medical device developers, hospital leadership, and the FDA to generate devices for pediatric patients. Prior to joining CHOP, she earned her degree in Biomedical Engineering and worked in the medical device industry.</p>",
+    "Image": "koh.png",
+    "Designation": "Venture and Innovation Analyst, Children’s Hospital of Philadelphia"
+  },
+  {
+    "Name": "Kyree Holmes",
+    "Bio": "<p>Kyree is a proud native Philadelphian who has lived all across the city. Originally on track to pursue a career in marketing, she serendipitously discovered the user experience field and fell in love with it. She is currently a User Experience Researcher at Comcast, leading efforts to enhance the X1 voice remote control.Kyree foundedOnyx Valley, a community building organization designed to identify and prepare diverse talent for careers in the tech field. Kyree is a graduate of Howard University’s School of Business and completed her Master’s degree in Design at Carnegie Mellon University.</p>",
+    "Image": "kholmes.png",
+    "Designation": "User Experience Researcher, Comcast | Founder, Onyx Valley"
+  },
+  {
+    "Name": "LaBrina Loving",
+    "Bio": "<p>LaBrina Loving is a Senior Software Engineer at Microsoft with over 18 years of experience in software development. She works with companies in the Communications and Media space to leverage the cloud for cutting edge technologies like artificial intelligence and chatbots, IoT, mobile and analytics. Prior to joining Microsoft in 2016, LaBrina worked with several consulting organizations helping Fortune 500 companies and Government agencies transform their business through innovative solutions. She is passionate about ensuring there are more women and minorities in STEM careers and is active in the developer community speaking and volunteering at events throughout the world.</p>",
+    "Image": "lloving.png",
+    "Designation": "Microsoft"
+  },
+  {
+    "Name": "Laura Szkrybalo",
+    "Bio": "<p>Laura leads the Alexa Voice Service (AVS) Technology and Solution Provider Business Development team at Amazon. Her team is responsible for building technology enablement initiatives that provide support to device makers creating Alexa-enabled products. Prior to joining the AVS team in early 2015, Laura was responsible for technology and content licensing in the Amazon Devices organization. Laura has spent the vast majority of her 20+ year career in business development and sales roles in a variety of industries to include online media and aviation.</p>",
+    "Image": "lszkrybalo.png",
+    "Designation": "Principal, Business Development, Amazon Voice Services"
+  },
+  {
+    "Name": "Maria Brennan",
+    "Bio": "<p>Maria E. Brennan, CAE, is the President & CEO of Women in Cable Telecommunications (WICT), a 10,000 member global nonprofit serving women in cable media. During her tenure at WICT, Brennan has worked collaboratively with its leaders and stakeholders to steer the organization’s strategic vision, resulting in record levels of membership, program participation, and sponsor engagement. In addition, Brennan serves on the Women’s Leadership Board at Harvard University, is a charter member of the FCC’s Diversity Advisory Board, and a Commissioner for theGirl Scouts Healthy Media Council. Brennan is the recipient of NCTA’s Vanguard Award, CableFax’s Most Powerful Women in Cable, and EXCEL Award for her byline, “Hear Me Roar.”</p>",
+    "Image": "mbrennan.png",
+    "Designation": "President & CEO, Women in Cable Telecommunications (WICT)"
+  },
+  {
+    "Name": "Mariel Sabraw",
+    "Bio": "<p>Mariel Sabraw is a Senior Product Manager at Comcast. In this role, Mariel focuses on developing hardware products that promote engagement with voice features. Since joining Comcast in 2013, Mariel has managed product development of remote controls and works closely with UX designers and engineers to develop hardware and software for the voice remote that is now in over 20 million homes. Mariel receivedbachelor’s degrees in Economics and Broadcast Production from the University of Colorado at Boulder. She currently lives in Philadelphia and enjoys a just-close-enough-to-walk commute to the Comcast Center.</p>",
+    "Image": "msabraw.png",
+    "Designation": "Senior Product Manager, Comcast"
+  },
+  {
+    "Name": "Mary Malone",
+    "Bio": "<p>Mary Malone, Principal Engineer at Comcast, holds an M.S. in Computer Science from Villanova University and a B.A. in Computer Science from La Salle University. Working as a Systems Engineer, Architect and Software Developer for over 25 years, she has been designing and developing software systems and leading teams in taking new and emerging technologies and translating them into real world applications for consumers and businesses. She joined Comcast in 2007 and currently works in the TPX, Network & Communications Services organization. Mary “moonlights” as a musician, and can regularly be found playing Irish Trad fiddle in gigs around Philly.</p>",
+    "Image": "mmalone.png",
+    "Designation": "Principal Engineer, Comcast"
+  },
+  {
+    "Name": "Michele Corsini",
+    "Bio": "<p>As part of Comcast Cable's Technology, Product & Experience Organization, Michele Corsini serves as the Senior Director of Solution Management. Michele is a seasoned Telecommunications Business and Technology leader with 20 years of experiencecrafting solutions across an array of products, services and technology stacks. Michele has been an active member of Women in Cable Telecommunications (WICT) since 2011. She is a WICT Greater Philadelphia Chapter Board member and currently serves as the Tech It Out Director. When not immersed in “data”, Michele enjoys spending time with her husband, four children and two dogs. She loves the beach, travel and home redesign projects.</p>",
+    "Image": "mcorsini.png",
+    "Designation": "Senior Director of Solution Management, Product & Experience Organization, Comcast"
+  },
+  {
+    "Name": "Michelle A. Ray",
+    "Bio": "<p>As the Acting Executive Director of the Walter Kaitz Foundation, Michelle Ray is charged with developing and implementing strategic direction, initiatives and programmatic activities. Michelle works with other national organizations advocating for the social and economic interests of women and ethnic minorities connecting them with the industry’s member companies. Ms. Ray is primarily responsible for developing and managing the process for the distribution of grants to the industry’s three diversity organizations. A graduate of McGill University in Montreal, Canada Michelle has a Bachelor of Arts degree in Economics and Political Science.</p>",
+    "Image": "mray.png",
+    "Designation": "Acting Executive Director, Walter Kaitz Foundation"
+  },
+  {
+    "Name": "Mike Stevens",
+    "Bio": "<p>Mike Stevens is Director of PhillyBloco, a 23-piece band and Philadelphia’s only Brazilian Funk Orchestra. It is modeled after the blocos of Brasil, with their large percussion sections and harmonic/vocal accompaniment. Mike is also Director of “Penn Samba” at the University of Pennsylvania School of Arts and Sciences; Director of Unidos da Filadelfia, a community-based samba school modeled after the Carnaval parade organizations of Rio de Janeiro and Salvador da Bahia in Brasil; and co-music director of Alo Brasil, one of the premier Brazilian bands performing in the Mid-Atlantic U.S.</p>",
+    "Image": "mstevens.png",
+    "Designation": "Director, PhillyBloco"
+  },
+  {
+    "Name": "Nomi Bergman",
+    "Bio": "<p>Nomi Bergman is a senior executive officer with the Advance/Newhouse companies where she focuses on corporate development and strategic partnerships.Bergman has over 25 years of experience as an operator, investor and advisor to technology companies, where she has focused on mobile, data and video communications, information technology and data services, advanced advertising, and emerging technologies centered on reimagining and improving the customer experience.</p><p>Previously, President of Bright House Networks, Bergman was one of the original Bright House Networks founders; who together led the company to become the sixth-largest cable operator in the United States, with 8,500 employees, 2.5 million customers, and over $4B in annual revenue.</p><p>Bergman presently sits on the corporate board of publicly held Visteon Corporation and privately held 1010data, Mediamorph and Black & Veatch.As a board member at the University of Rochester, she remains closely connected to her alma mater. In addition, she is a board member of Adaptive Spirit, the Cable Center and One Revolution. She is also a longstanding memberof the FCC Technological Advisory Council (TAC), and a part-time Adjunct Professor at Syracuse University.</p>",
+    "Image": "nbergman.png",
+    "Designation": "Senior Executive Officer, Advance/Newhouse"
+  },
+  {
+    "Name": "Pawan Tripathi",
+    "Bio": "<p>Pawan Tripathi is a Principal engineer at Comcast with over 11 years of IT experience. He holds a Bachelor’s degree in Computer Science from Mumbai University. Engaged with Comcast since 2011, he works as a full stack developer and leads reference client development for Android and iOS platforms. He strives to become a polyglot in Programming and Natural Languages, and is versed in Golang, Java, Swift, English and Hindi. Currently, he indulges in Urdu poetry.</p>",
+    "Image": "ptripathi.png",
+    "Designation": "Principal engineer, Comcast"
+  },
+  {
+    "Name": "Rajat Vijayvargiya",
+    "Bio": "<p>Rajat Vijayvargiya is a Senior Business Technology Advisor at CA Technologies and has combined technology and business leadership experience across Technology, Financial Services/Insurance, Pharma, Life Sciences, Supply-Chain and Not-for-Profit verticals guiding organizational change and business transformation initiatives. He serves as a trusted advisor for Fortune 50 customers, responsible for defining solutions that provide business value to customers and drives transformation. His current areas of focus include: Connected Everything, Continuous Everything, API Economy, Mobile, IoT, Blockchain, FinTech. Raj is an engineering graudate from Drexel University and prior to coming to CA lead Product Management and Development of B2B SaaS portfolio for Big Brothers Big Sisters of America.</p>",
+    "Image": "rvargiya.png",
+    "Designation": "Senior Business Technology Architect, CA Technologies"
+  },
+  {
+    "Name": "Satya Muralidharan",
+    "Bio": "<p>Satya manages the ECO Self-Service engineering team at ARRIS and is the lead engineer for the product line. She has over 7 years experience in the telecommunications industry and over 12 years experience in software engineering. Satya attended the University of Kansas, where she earned a master's degree in computer engineering. She enjoys challenges that inspire intelligent solutions and loves working hard with a team to make great things happen.</p>",
+    "Image": "smuralidharan.png",
+    "Designation": "Manager, ECO Self-Service Team, ARRIS"
+  },
+  {
+    "Name": "Sunghee Moon",
+    "Bio": "<p>Sunghee Moon is the Google Assistant Mobile Lead at Google. Prior to joining the product organization, she was managing US and global sales teams that work with top OEM & telecommunication partners.</p>",
+    "Image": "smoon.png",
+    "Designation": "Google Assistant Mobile Lead, Google"
+  }
 ]

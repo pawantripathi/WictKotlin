@@ -19,7 +19,7 @@
         "Time": "8:45am - 9:15am",
         "Title": "PhillyBloco – Brazilian Music to Shake Your Body and Soul",
         "Subtitle": "",
-        "Location": "TBD",
+        "Location": "",
         "Speakers": "",
         "Label": ""
     },
@@ -32,50 +32,50 @@
         "Label": ""
     },
     {
-        "Time": "9:10am",
+        "Time": "",
         "Title": "Chris Power and Alexa",
         "Subtitle": "",
         "Location": "",
-        "Speakers": "",
+        "Speakers": "Chris Power, Senior Principal Engineer, Comcast",
         "Label": ""
     },
     {
-        "Time": "9:15am - 9:25am",
+        "Time": "",
         "Title": "Orientation",
         "Subtitle": "WICT Philadelphia Co-Directors, Tech It Out 2018",
-        "Location": "TBD",
-        "Speakers": "Michele Corsini, Senior Director of Solution Management, Comcast and Mary Malone, Principal Engineer, Comcast",
+        "Location": "",
+        "Speakers": "Mary Malone, Principal Engineer, Comcast and Michele Corsini, Senior Director of Solution Management, Comcast",
         "Label": ""
     },
     {
-        "Time": "9:25am - 9:35am",
+        "Time": "",
         "Title": "Welcome to Villanova",
         "Subtitle": "",
-        "Location": "TBD",
+        "Location": "",
         "Speakers": "Dr. Amanda Grannas, Associate Vice Provost for Research, Villanova University",
         "Label": ""
     },
     {
-        "Time": "9:35am - 9:40am",
+        "Time": "",
         "Title": "Introduction of Opening Remarks",
         "Subtitle": "",
-        "Location": "TBD",
+        "Location": "",
         "Speakers": "Maria E. Brennan, President and CEO of Women in Cable Telecommunications (WICT)",
         "Label": ""
     },
     {
-        "Time": "9:40am - 9:55am",
+        "Time": "",
         "Title": "Opening Remarks",
         "Subtitle": "",
-        "Location": "TBD",
+        "Location": "",
         "Speakers": "Nomi Bergman, President, Advance/Newhouse",
         "Label": ""
     },
     {
-        "Time": "9:55am",
+        "Time": "",
         "Title": "Introduction by By Jodi Friedman, VP Sales, ARRIS",
         "Subtitle": "Keynote: The Evolution of Voice Control",
-        "Location": "TBD",
+        "Location": "",
         "Speakers": "Jeanine Heck, VP, AI Product, Comcast",
         "Label": ""
     },
@@ -88,24 +88,24 @@
         "Label": ""
     },
     {
-        "Time": "10:40am - 11:05am",
-        "Title": "Introduction by Cisco",
+        "Time": "",
+        "Title": "Introduction by Emma Carpenter, Network Transformation Leader, Cisco",
         "Subtitle": "The Evolution of Alexa and Voice-Enabled Devices in the Home",
-        "Location": "TBD",
+        "Location": "",
         "Speakers": "Laura Szkrybalo, Principal, Business Development, Amazon Voice Services",
         "Label": ""
     },
     {
-        "Time": "11:05am - 11:30am",
-        "Title": "Introduction by ARRIS or Cisco",
+        "Time": "",
+        "Title": "",
         "Subtitle": "Ability Through Innovation: Empowering People with Disabilities",
-        "Location": "TBD",
-        "Speakers": "Joel Moffat, Principal Product Manager and Customer Experience Lead for Comcast’s Accessibility Team, Comcast",
+        "Location": "",
+        "Speakers": "Joel Moffat, Principle Product Manager and Customer Experience Lead for Accessibility Team, Comcast",
         "Label": ""
     },
     {
         "Time": "11:30am - 12:45pm",
-        "Title": "Luncheon, Presentation and Film Screening - Introduction by Chris Power and Alexa",
+        "Title": "Luncheon, Presentation and Film Screening - Introduction by Chris Power, Senior Principal Engineer at Comcast and Alexa",
         "Subtitle": "Building an Inclusive Future Today",
         "Location": "Connelly Center, Villanova Room",
         "Speakers": "Jennifer Cloer, Creator and Executive Producer, The Chasing Grace Project",
@@ -148,7 +148,7 @@
         "Title": "Designing Seamless and Secure Digital Experiences While Maximizing Trust and Velocity at Scale",
         "Subtitle": "",
         "Location": "Bartley Hall, Room 023A",
-        "Speakers": "Rajat Vijayvargiya, Senior Business Technology Architect, CA Technologies",
+        "Speakers": "Rajat Vijayvargiya, Senior Business Technology Advisor, CA Technologies",
         "Label": "Breakout Session 1 - Track 4"
     },
     {
@@ -156,16 +156,24 @@
         "Title": "Prototyping Voice Control and AI Video Surveillance",
         "Subtitle": "",
         "Location": "Connelly Center, Villanova Room",
-        "Speakers": "Chris Kocks, Director,Internet of Things Practice, Pure Integration",
+        "Speakers": "Chris Kocks, Director, Internet of Things Practice, Pure Integration",
         "Label": "Breakout Session 2 - Track 1"
+    },
+    {
+        "Time": "2:00pm - 2:45pm",
+        "Title": "Google Assistant Controlled Robotics",
+        "Subtitle": "",
+        "Location": "Connelly Center, Villanova Cinema",
+        "Speakers": "Jeremy Keen, Google Cloud Customer Engineer, Google",
+        "Label": "Breakout Session 2 - Track 2"
     },
     {
         "Time": "2:00pm - 2:45pm",
         "Title": "Adoption of Machine Learning in Telecommunications",
         "Subtitle": "",
-        "Location": "Connelly Center, Villanova Cinema",
+        "Location": "Bartley Hall, Room 3010",
         "Speakers": "David Frigeri, Practice Area Lead, Advanced Analytics and Visualization, Slalom Consulting",
-        "Label": "Breakout Session 2 - Track 2"
+        "Label": "Breakout Session 2 - Track 3"
     },
     {
         "Time": "2:00pm - 2:45pm",
@@ -173,7 +181,7 @@
         "Subtitle": "",
         "Location": "Bartley Hall, Room 023A",
         "Speakers": "Arun Ravisankar, Senior Engineer, CPE and Home Network, Comcast",
-        "Label": "Breakout Session 2 - Track 3"
+        "Label": "Breakout Session 2 - Track 4"
     },
     {
         "Time": "2:45pm - 3:15pm",
@@ -185,10 +193,10 @@
     },
     {
         "Time": "3:15pm - 4:00pm",
-        "Title": "TBD - Google Assistant",
+        "Title": "Magic of Speech in Google Assistant",
         "Subtitle": "",
-        "Location": "Connelly Center,  Villanova Room",
-        "Speakers": "Sunghee Moon",
+        "Location": "Connelly Center, Villanova Room",
+        "Speakers": "Sunghee Moon, Google Assistant Mobile Lead",
         "Label": "Breakout Session 3 - Track 1"
     },
     {
@@ -196,7 +204,7 @@
         "Title": "Alexa at the Children’s Hospital of Philadelphia",
         "Subtitle": "",
         "Location": "Connelly Center, Villanova Cinema",
-        "Speakers": "Kelsey Oh, Venture and Innovation Analyst, CHOP and Aaron Mulder, CTO, Chariot Solutions",
+        "Speakers": "Kelsey Oh, Venture and Innovation Analyst, The Children’s Hospital of Philadelphia and Aaron Mulder, CTO & Director, Chariot Solutions",
         "Label": "Breakout Session 3 - Track 2"
     },
     {
@@ -216,15 +224,39 @@
         "Label": "Breakout Session 3 - Track 4"
     },
     {
-        "Time": "4:10pm - 4:30pm",
-        "Title": "Giveaways and Closing",
+        "Time": "4:10pm",
+        "Title": "Closing Remarks and Giveaways",
         "Subtitle": "",
         "Location": "Connelly Center, Villanova Room",
         "Speakers": "",
         "Label": ""
     },
     {
-        "Time": "4:30pm - 5:45pm",
+        "Time": "",
+        "Title": "Introduction By",
+        "Subtitle": "",
+        "Location": "",
+        "Speakers": "Zenita Henderson, Senior Director, Marketing, Business Development & National Conferences, SCTE ISBE",
+        "Label": ""
+    },
+    {
+        "Time": "",
+        "Title": "Closing Remarks",
+        "Subtitle": "",
+        "Location": "",
+        "Speakers": "Michelle A. Ray, Executive Director, Walter Kaitz Foundation",
+        "Label": ""
+    },
+    {
+        "Time": "",
+        "Title": "Giveaways",
+        "Subtitle": "",
+        "Location": "",
+        "Speakers": "",
+        "Label": ""
+    },
+    {
+        "Time": "4:30pm",
         "Title": "Reception",
         "Subtitle": "",
         "Location": "Connelly Center, Atrium",

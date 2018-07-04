@@ -34,23 +34,12 @@ class SchedulesAdapter(private val scheduleList: ArrayList<Schedule>,
         holder.locationView.text = schedule.location
         holder.timeView.text = schedule.time
 
-        if (TextUtils.isEmpty(schedule.subTitle)){
-            holder.subTitleView.visibility = View.GONE
-        }else{
-            holder.subTitleView.visibility = View.VISIBLE
-        }
 
-        if (TextUtils.isEmpty(schedule.speakers)){
-            holder.speakersView.visibility = View.GONE
-        }else{
-            holder.speakersView.visibility = View.VISIBLE
-        }
-
-        if (TextUtils.isEmpty(schedule.location)){
-            holder.locationView.visibility = View.GONE
-        }else{
-            holder.locationView.visibility = View.VISIBLE
-        }
+        holder.titleView.visibility = if (TextUtils.isEmpty(schedule.title)) View.GONE else View.VISIBLE
+        holder.subTitleView.visibility = if (TextUtils.isEmpty(schedule.subTitle)) View.GONE else View.VISIBLE
+        holder.speakersView.visibility = if (TextUtils.isEmpty(schedule.speakers)) View.GONE else View.VISIBLE
+        holder.locationView.visibility = if (TextUtils.isEmpty(schedule.location)) View.GONE else View.VISIBLE
+        holder.timeView.visibility = if (TextUtils.isEmpty(schedule.time)) View.GONE else View.VISIBLE
 
     }
 
