@@ -14,7 +14,6 @@ import org.wictphiladelphia.wict.R
 
 class UniversityMap: ModalActivity(){
 
-
     companion object {
         fun show(context: Activity){
             val intent = Intent(context, UniversityMap::class.java)
@@ -22,7 +21,6 @@ class UniversityMap: ModalActivity(){
 
         }
     }
-
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
