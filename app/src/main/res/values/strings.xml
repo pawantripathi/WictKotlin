@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Wict</string>
     <string name="title_about">Info</string>
-    <string name="fragment_title_about">WICT Tech It Out</string>
+    <string name="fragment_title_about">WICT Tech It Out 2018</string>
     <string name="title_schedule">Schedule</string>
     <string name="title_location">Location</string>
     <string name="title_sponsor">Sponsors</string>
@@ -12,6 +12,10 @@
 
 
     <!-- Fragment text -->
+    <string name="about_event_title">The Age of Voice Control</string>
+    <string name="about_event_subtitle">Presented by the Greater Philadelphia Chapter of Women in Cable Telecommunications in partnership with WICT Global</string>
+    <string name="about_event_date">July 18, 2018 - Villanova University, Villanova, PA</string>
+
     <string name="about_wict_text">Almost half of American adults are using digital voice assistants on their smartphones, in their cars and on other devices such as Amazon Echo and Google Home. The advances in recent years of technologies to support voice and conversational user interfaces are transporting our businesses and society into a new age of voice control.
 &lt;br /&gt;Join us at WICT TIO 2018 and meet some of the experts who will demo products and talk about how voice and conversational user interfaces are designed, what technologies enable them, how they are being used, and why they are changing our lives.
 &lt;br /&gt;Our event is open to the public, including men and women. Students under 18 must be supervised by an adult.
