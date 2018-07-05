@@ -1,18 +1,15 @@
-package wict.wictphiladelphia.org.wict.fragments
+package org.wictphiladelphia.wict.fragments
 
-import android.content.Context
 import android.os.Bundle
 import android.support.v4.app.Fragment
-import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.ImageView
-import android.widget.LinearLayout
 import kotlinx.android.synthetic.main.fragment_sponsors.*
-import wict.wictphiladelphia.org.wict.R
-import wict.wictphiladelphia.org.wict.models.SponsorInfo
-import wict.wictphiladelphia.org.wict.ui.ChildWrappingContainer
+import org.wictphiladelphia.wict.R
+import org.wictphiladelphia.wict.models.SponsorInfo
+import org.wictphiladelphia.wict.ui.ChildWrappingContainer
+
 import java.io.IOException
 
 class SponsorsFragment: Fragment(){

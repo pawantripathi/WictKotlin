@@ -1,8 +1,9 @@
-package wict.wictphiladelphia.org.wict.activities
+package org.wictphiladelphia.wict.activities
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
-import wict.wictphiladelphia.org.wict.R
+import org.wictphiladelphia.wict.R
+
 
 open class ModalActivity: AppCompatActivity(){
 

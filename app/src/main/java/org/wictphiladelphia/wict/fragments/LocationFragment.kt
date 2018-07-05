@@ -1,14 +1,11 @@
-package wict.wictphiladelphia.org.wict.fragments
+package org.wictphiladelphia.wict.fragments
 
-import android.content.Intent
-import android.net.Uri
 import android.os.Bundle
 import android.support.v4.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.ImageView
-import wict.wictphiladelphia.org.wict.R
+import org.wictphiladelphia.wict.R
 
 class LocationFragment: Fragment(){
 

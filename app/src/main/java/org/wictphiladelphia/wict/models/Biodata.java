@@ -1,4 +1,4 @@
-package wict.wictphiladelphia.org.wict.models;
+package org.wictphiladelphia.wict.models;
 
 import android.content.Context;
 import android.util.Log;
@@ -6,13 +6,14 @@ import android.util.Log;
 import com.google.gson.Gson;
 import com.google.gson.annotations.SerializedName;
 
+import org.wictphiladelphia.wict.R;
+
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.Serializable;
 import java.util.HashMap;
 
-import wict.wictphiladelphia.org.wict.R;
 
 public class Biodata implements Serializable{
 

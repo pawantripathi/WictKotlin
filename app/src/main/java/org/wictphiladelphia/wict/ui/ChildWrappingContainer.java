@@ -1,11 +1,8 @@
-package wict.wictphiladelphia.org.wict.ui;
+package org.wictphiladelphia.wict.ui;
 
 import android.content.Context;
-import android.support.annotation.Nullable;
-import android.util.AttributeSet;
 import android.view.LayoutInflater;
 import android.view.View;
-import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
@@ -14,10 +11,10 @@ import com.bumptech.glide.Glide;
 import com.bumptech.glide.RequestManager;
 import com.google.android.flexbox.FlexboxLayout;
 
-import java.util.ArrayList;
-import java.util.HashMap;
+import org.wictphiladelphia.wict.R;
 
-import wict.wictphiladelphia.org.wict.R;
+import java.util.ArrayList;
+
 
 public class ChildWrappingContainer extends LinearLayout {
     private Context mContext;

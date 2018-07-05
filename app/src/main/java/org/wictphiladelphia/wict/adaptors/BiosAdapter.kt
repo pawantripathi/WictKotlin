@@ -1,28 +1,26 @@
-package wict.wictphiladelphia.org.wict.adaptors
+package org.wictphiladelphia.wict.adaptors
 
-import android.content.Context
 import android.support.v7.widget.RecyclerView
-import android.text.TextUtils
 import android.view.LayoutInflater
-import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import com.bumptech.glide.Glide
-import com.bumptech.glide.Glide.init
 import com.bumptech.glide.RequestManager
+import org.wictphiladelphia.wict.R
+
+
+import org.wictphiladelphia.wict.models.Biodata;
+import android.content.Context
+import android.view.View
 import kotlinx.android.synthetic.main.bios_row_item.view.*
-import kotlinx.android.synthetic.main.schedule_row_item.view.*
-import org.w3c.dom.Text
-import wict.wictphiladelphia.org.wict.R
-import wict.wictphiladelphia.org.wict.models.Biodata
-import wict.wictphiladelphia.org.wict.models.Schedule
+
 
 class BiosAdapter(private val biosList: ArrayList<Biodata>,
                   private val context: Context,
                   private val listener: (Biodata) -> Unit) : RecyclerView.Adapter<BiosViewHolder>() {
 
-    private var glide:RequestManager?= null
+    private var glide: RequestManager?= null
 
     init {
         glide = Glide.with(context)

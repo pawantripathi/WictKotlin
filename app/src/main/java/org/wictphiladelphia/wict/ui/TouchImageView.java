@@ -1,4 +1,4 @@
-package wict.wictphiladelphia.org.wict.ui;
+package org.wictphiladelphia.wict.ui;
 
 import android.annotation.TargetApi;
 import android.content.Context;

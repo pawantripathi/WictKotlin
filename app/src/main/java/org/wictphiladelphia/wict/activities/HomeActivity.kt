@@ -1,4 +1,4 @@
-package wict.wictphiladelphia.org.wict.activities
+package org.wictphiladelphia.wict.activities
 
 import android.annotation.SuppressLint
 import android.content.Intent
@@ -17,10 +17,9 @@ import android.view.WindowManager
 
 import kotlinx.android.synthetic.main.activity_home.*
 import kotlinx.android.synthetic.main.toolbar.*
-import wict.wictphiladelphia.org.wict.R
+import org.wictphiladelphia.wict.R
+import org.wictphiladelphia.wict.fragments.*
 
-
-import wict.wictphiladelphia.org.wict.fragments.*
 
 class HomeActivity : AppCompatActivity() {
 

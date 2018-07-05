@@ -1,4 +1,4 @@
-package wict.wictphiladelphia.org.wict.fragments
+package org.wictphiladelphia.wict.fragments
 
 import android.os.Bundle
 import android.support.v4.app.Fragment
@@ -10,7 +10,8 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import kotlinx.android.synthetic.main.fragment_about.*
-import wict.wictphiladelphia.org.wict.R
+import org.wictphiladelphia.wict.R
+
 
 class AboutFragment: Fragment(){
 

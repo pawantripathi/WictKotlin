@@ -1,4 +1,4 @@
-package wict.wictphiladelphia.org.wict.adaptors
+package org.wictphiladelphia.wict.adaptors
 
 import android.content.Context
 import android.support.v7.widget.RecyclerView
@@ -8,9 +8,9 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import kotlinx.android.synthetic.main.schedule_row_item.view.*
-import org.w3c.dom.Text
-import wict.wictphiladelphia.org.wict.R
-import wict.wictphiladelphia.org.wict.models.Schedule
+import org.wictphiladelphia.wict.R
+import org.wictphiladelphia.wict.models.Schedule
+
 
 class SchedulesAdapter(private val scheduleList: ArrayList<Schedule>,
                        private val context: Context): RecyclerView.Adapter<ViewHolder>(){

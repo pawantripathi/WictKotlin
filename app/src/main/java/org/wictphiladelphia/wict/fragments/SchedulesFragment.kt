@@ -1,4 +1,4 @@
-package wict.wictphiladelphia.org.wict.fragments
+package org.wictphiladelphia.wict.fragments
 
 import android.os.Bundle
 import android.support.v4.app.Fragment
@@ -7,9 +7,10 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import kotlinx.android.synthetic.main.fragment_schedule.*
-import wict.wictphiladelphia.org.wict.R
-import wict.wictphiladelphia.org.wict.adaptors.SchedulesAdapter
-import wict.wictphiladelphia.org.wict.models.Schedule
+import org.wictphiladelphia.wict.R
+import org.wictphiladelphia.wict.adaptors.SchedulesAdapter
+import org.wictphiladelphia.wict.models.Schedule
+
 import java.io.IOException
 
 

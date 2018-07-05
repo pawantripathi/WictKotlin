@@ -1,4 +1,4 @@
-package wict.wictphiladelphia.org.wict.activities
+package org.wictphiladelphia.wict.activities
 
 import android.app.Activity
 import android.content.Intent
@@ -10,14 +10,14 @@ import android.view.MenuItem
 import android.view.WindowManager
 import kotlinx.android.synthetic.main.activity_home.*
 import kotlinx.android.synthetic.main.toolbar.*
-import wict.wictphiladelphia.org.wict.R
+import org.wictphiladelphia.wict.R
 
-class Letter: ModalActivity(){
+class UniversityMap: ModalActivity(){
 
 
     companion object {
         fun show(context: Activity){
-            val intent = Intent(context, Letter::class.java)
+            val intent = Intent(context, UniversityMap::class.java)
             context.startActivity(intent)
 
         }
@@ -30,14 +30,14 @@ class Letter: ModalActivity(){
         window.clearFlags(WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS)
 
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_letter)
+        setContentView(R.layout.activity_university_map)
 
         setSupportActionBar(toolbarView as Toolbar?)
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
         supportActionBar?.setDisplayShowTitleEnabled(false)
 
-        toolbar_title.text = "Letter"
-        changeStatusBarColor(ResourcesCompat.getColor(resources, R.color.lavender, null))
+        toolbar_title.text = "University Map"
+        changeStatusBarColor(ResourcesCompat.getColor(resources, R.color.pink, null))
     }
 
 

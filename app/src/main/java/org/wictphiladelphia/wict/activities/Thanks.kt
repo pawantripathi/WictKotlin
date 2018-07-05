@@ -1,4 +1,4 @@
-package wict.wictphiladelphia.org.wict.activities
+package org.wictphiladelphia.wict.activities
 
 import android.app.Activity
 import android.content.Intent
@@ -8,16 +8,16 @@ import android.support.v7.widget.Toolbar
 
 import android.view.MenuItem
 import android.view.WindowManager
-import kotlinx.android.synthetic.main.activity_home.*
+import kotlinx.android.synthetic.main.activity_thanks.*
 import kotlinx.android.synthetic.main.toolbar.*
-import wict.wictphiladelphia.org.wict.R
+import org.wictphiladelphia.wict.R
 
-class UniversityMap: ModalActivity(){
+class Thanks: ModalActivity(){
 
 
     companion object {
         fun show(context: Activity){
-            val intent = Intent(context, UniversityMap::class.java)
+            val intent = Intent(context, Thanks::class.java)
             context.startActivity(intent)
 
         }
@@ -30,20 +30,21 @@ class UniversityMap: ModalActivity(){
         window.clearFlags(WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS)
 
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_university_map)
+        setContentView(R.layout.activity_thanks)
 
-        setSupportActionBar(toolbarView as Toolbar?)
+        setSupportActionBar(thanks_toolbar as Toolbar?)
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
         supportActionBar?.setDisplayShowTitleEnabled(false)
 
-        toolbar_title.text = "University Map"
-        changeStatusBarColor(ResourcesCompat.getColor(resources, R.color.pink, null))
+        note.text = resources.getString(R.string.special_thanks)
+
+        toolbar_title.text = "Thank you!"
+        changeStatusBarColor(ResourcesCompat.getColor(resources, R.color.lavender, null))
     }
 
 
     fun changeStatusBarColor(color: Int){
-
-        toolbarView.setBackgroundColor(color)
+        thanks_toolbar.setBackgroundColor(color)
         window.statusBarColor = color
 
     }

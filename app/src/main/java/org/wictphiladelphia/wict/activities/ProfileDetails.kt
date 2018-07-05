@@ -1,4 +1,4 @@
-package wict.wictphiladelphia.org.wict.activities
+package org.wictphiladelphia.wict.activities
 
 import android.content.Context
 import android.content.Intent
@@ -12,17 +12,18 @@ import android.text.util.Linkify
 import android.view.MenuItem
 import android.view.WindowManager
 import kotlinx.android.synthetic.main.activity_profile_details.*
-import kotlinx.android.synthetic.main.fragment_about.*
 import kotlinx.android.synthetic.main.toolbar.*
-import wict.wictphiladelphia.org.wict.R
-import wict.wictphiladelphia.org.wict.models.Biodata
+import org.wictphiladelphia.wict.R
+import org.wictphiladelphia.wict.R.id.*
+import org.wictphiladelphia.wict.activities.ModalActivity
+import org.wictphiladelphia.wict.models.Biodata
 
 class ProfileDetails: ModalActivity(){
     companion object {
 
         val EXTRA_POSITION = "wict.wictphiladelphia.PROFILE_OBJ"
 
-        fun show(context: Context, profile :Biodata){
+        fun show(context: Context, profile : Biodata){
             val intent = Intent(context, ProfileDetails::class.java)
             intent.putExtra(EXTRA_POSITION, profile)
             context.startActivity(intent)

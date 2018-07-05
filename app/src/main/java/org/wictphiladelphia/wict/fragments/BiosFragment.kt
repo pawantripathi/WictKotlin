@@ -1,4 +1,4 @@
-package wict.wictphiladelphia.org.wict.fragments
+package org.wictphiladelphia.wict.fragments
 
 import android.os.Bundle
 import android.support.v4.app.Fragment
@@ -7,10 +7,11 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import kotlinx.android.synthetic.main.fragment_biodata.*
-import wict.wictphiladelphia.org.wict.R
-import wict.wictphiladelphia.org.wict.activities.ProfileDetails
-import wict.wictphiladelphia.org.wict.adaptors.BiosAdapter
-import wict.wictphiladelphia.org.wict.models.Biodata
+import org.wictphiladelphia.wict.R
+import org.wictphiladelphia.wict.activities.ProfileDetails
+import org.wictphiladelphia.wict.adaptors.BiosAdapter
+import org.wictphiladelphia.wict.models.Biodata
+
 import java.io.IOException
 
 class BiosFragment: Fragment() {

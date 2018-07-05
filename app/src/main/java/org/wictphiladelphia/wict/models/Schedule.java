@@ -1,4 +1,4 @@
-package wict.wictphiladelphia.org.wict.models;
+package org.wictphiladelphia.wict.models;
 
 import android.content.Context;
 import android.util.Log;
