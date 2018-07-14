@@ -28,7 +28,6 @@ public class SponsorInfo {
         resMapping.put("comcastbusiness.png", R.drawable.comcastbusiness);
         resMapping.put("comcastfreewheel.png", R.drawable.comcastfreewheel);
         resMapping.put("tpx.png", R.drawable.tpx);
-
         resMapping.put("pwc.png", R.drawable.pwc);
         resMapping.put("qvc.png", R.drawable.qvc);
         resMapping.put("scte.png", R.drawable.scte);
@@ -44,8 +43,9 @@ public class SponsorInfo {
         resMapping.put("pureintegration.png", R.drawable.pureintegration);
         resMapping.put("partners.png", R.drawable.partners);
         resMapping.put("stafftech.png", R.drawable.stafftech);
-
-
+        resMapping.put("mediacopy.png", R.drawable.mediacopy);
+        resMapping.put("pluralsight.png", R.drawable.pluralsight);
+        resMapping.put("csg.png", R.drawable.csg);
 
     }
 

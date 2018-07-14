@@ -17,17 +17,17 @@
 {
 	"Category": 2,
 	"Title":"Platinum Sponsors",
-	"Sponsors":["arris.png","pwc.png","qvc.png","scte.png","signature.png"]
+	"Sponsors":["arris.png","pwc.png","pluralsight.png", "qvc.png","scte.png","signature.png"]
 },
 {
 	"Category": 2,
 	"Title":"Gold Sponsors",
-	"Sponsors":["ae.png","amdocs.png","eplus.png","espn.png","hbo.png","juniper.png","optia.png","pureintegration.png"]
+	"Sponsors":["ae.png","amdocs.png", "csg.png", "eplus.png","espn.png","hbo.png","juniper.png","optia.png","pureintegration.png"]
 },
 {
 	"Category": 2,
 	"Title":"Silver Sponsors",
-	"Sponsors":["partners.png","stafftech.png"]
+	"Sponsors":["partners.png","stafftech.png", "mediacopy.png"]
 }
 
 ]

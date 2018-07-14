@@ -50,6 +50,7 @@ public class Biodata implements Serializable{
         resMapping.put("jkeen.png", R.drawable.jkeen);
         resMapping.put("mray.png", R.drawable.mray);
         resMapping.put("smoon.png", R.drawable.smoon);
+        resMapping.put("jschalkwyk.png", R.drawable.jschalkwyk);
 
 
     }

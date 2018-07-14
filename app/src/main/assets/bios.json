@@ -18,12 +18,6 @@
     "Designation": "Director of Business Development at CSG"
   },
   {
-    "Name": "Arun Ravisankar",
-    "Bio": "<p>Arun Ravisankarr is a Sr Engineer with Comcast Labs. His responsibilities include next-gen Tele-Health and health care solutions for Comcast Connected Health. That includes working on IoT standards, and using IoT for activity monitoring and researching RF monitoring technologies. He has 12 years of experience with set-top boxes and digital TV technologies, having worked on broadcast standards like ATSC, DVB, MPEG A/V, and the RDK software stack. He’s been hands-on with many advanced A/V formats and the webRTC protocols. A self-described Linux-freak, Arun never tires of learning about operating systems. He’s a great fan of embedded programming and has found new love in the IoT and machine learning landscapes.</p>",
-    "Image": "aravisankar.png",
-    "Designation": "Senior Engineer, Comcast Labs"
-  },
-  {
     "Name": "Bryan Kissinger",
     "Bio": "<p>Bryan Kissinger is a Product Director on the Digital Home team at Comcast. In this role, Bryan focuses on crafting the voice interface for IoT device control and innovating with the X1 platform to create differentiated security experiences on the TV. Since joining Comcast in 2008, Bryan has been relentlessly focused on simple solutions that solve real customer problems. Bryan received BS and MS degrees in Psychology from Saint Joseph’s University and more recently completed a part-time MBA program at Temple University, graduating in 2015. He currently lives in Philadelphia enjoys spending time with his wife and new baby girl.</p>",
     "Image": "bkissinger.png",
@@ -84,10 +78,16 @@
     "Designation": "Vice President of Educational Programs, WICT"
   },
   {
-    "Name": "Joel Moffat",
+    "Name": "Joel Moffatt",
     "Bio": "<p>Joel Moffatt is the Principal Product Manager and Customer Experience Lead for Comcast’s Accessibility Team. He helps drive customer-focused strategy through engagement with disability community thought leaders, fostering product knowledge within the Accessibility Customer Support Center, managing the Comcast Accessibility Lab and ensuring that accessibility is integrated in Comcast’s culture. Joel joined Comcast’s Accessibility Team in 2013 and has worked on the launches of the X1 talking guide, Comcast’s Accessibility Lab and the Accessibility Support Center. He cultivates customer feedback and relationships that directly influence the accessibility of XFINITY products for people with disabilities.</p>",
     "Image": "jmoffat.png",
     "Designation": "Principal Product Manager, CX Lead, Accessibility, Comcast"
+  },
+  {
+    "Name": "Johan Schalkwyk",
+    "Bio": "<p>Johan Schalkwyk an Engineering Fellow at Google, has been working in the speech industry for the last 25 years. Johan manages the speech recognition and synthesis effort at Google, focused at building a conversational interface for Google. His passion is to make speech a usable interface that everyone in the world uses. Besides building speech recognizers, Johan enjoys mountain biking around the world and cooking Thai food or baking desserts and cakes.</p>",
+    "Image": "jschalkwyk.png",
+    "Designation": "VP of Engineering, Google"
   },
   {
     "Name": "Kelsey Oh",
@@ -114,7 +114,7 @@
     "Designation": "Principal, Business Development, Amazon Voice Services"
   },
   {
-    "Name": "Maria Brennan",
+    "Name": "Maria E. Brennan",
     "Bio": "<p>Maria E. Brennan, CAE, is the President & CEO of Women in Cable Telecommunications (WICT), a 10,000 member global nonprofit serving women in cable media. During her tenure at WICT, Brennan has worked collaboratively with its leaders and stakeholders to steer the organization’s strategic vision, resulting in record levels of membership, program participation, and sponsor engagement. In addition, Brennan serves on the Women’s Leadership Board at Harvard University, is a charter member of the FCC’s Diversity Advisory Board, and a Commissioner for theGirl Scouts Healthy Media Council. Brennan is the recipient of NCTA’s Vanguard Award, CableFax’s Most Powerful Women in Cable, and EXCEL Award for her byline, “Hear Me Roar.”</p>",
     "Image": "mbrennan.png",
     "Designation": "President & CEO, Women in Cable Telecommunications (WICT)"
