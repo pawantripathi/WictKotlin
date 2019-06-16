@@ -53,7 +53,7 @@ class ProfileDetails: ModalActivity(){
 
 
         toolbar_title.text = profile?.name
-        changeStatusBarColor(ResourcesCompat.getColor(resources, R.color.lavender, null))
+//        changeStatusBarColor(ResourcesCompat.getColor(resources, R.color.lavender, null))
 
 
         profile_detail_avatar.setImageResource(profile?.imageRes!!)

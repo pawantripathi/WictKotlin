@@ -41,7 +41,7 @@
                         android:layout_width="200dp"
                         android:layout_height="200dp"
                         android:scaleType="fitCenter"
-                        android:src="@drawable/agrannas" />
+                        android:src="@drawable/ptripathi" />
 
                     <LinearLayout
                         android:layout_width="wrap_content"
@@ -56,18 +56,18 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Designation"
-                            android:textColor="@color/lavender"
+                            android:textColor="@color/colorAccent"
                             android:textSize="22sp"
-                            android:fontFamily="@font/brandon_reg"/>
+                            android:fontFamily="@font/gotham_book"/>
 
                         <TextView
                             android:id="@+id/profile_designation"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Designation"
-                            android:textColor="@color/lavender"
+                            android:textColor="@color/colorAccent"
                             android:textSize="14sp"
-                            android:fontFamily="@font/brandon_reg"/>
+                            android:fontFamily="@font/gotham_book"/>
 
                     </LinearLayout>
 
@@ -81,7 +81,7 @@
                     android:padding="8dp"
                     android:text="Some text"
                     android:textSize="16sp"
-                    android:fontFamily="@font/brandon_reg"/>
+                    android:fontFamily="@font/gotham_book"/>
 
             </LinearLayout>
 

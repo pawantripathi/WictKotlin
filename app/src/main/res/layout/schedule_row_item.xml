@@ -34,19 +34,19 @@
                     android:paddingRight="4dp"
                     android:paddingTop="4dp"
                     android:text="Time"
-                    android:textColor="@color/indigo"
+                    android:textColor="@color/colorAccent"
                     android:textSize="14sp"
-                    android:fontFamily="@font/brandon_blk" />
+                    android:fontFamily="@font/gotham_bold" />
 
                 <TextView
                     android:id="@+id/location"
                     android:layout_width="wrap_content"
-                    android:fontFamily="@font/brandon_bld"
+                    android:fontFamily="@font/gotham_bold"
                     android:layout_height="wrap_content"
                     android:paddingTop="4dp"
                     android:layout_weight="1"
                     android:text="Location"
-                    android:textColor="@color/indigo"
+                    android:textColor="@color/colorAccent"
                     android:textSize="14sp"
 
                     />
@@ -60,7 +60,7 @@
                 android:layout_height="wrap_content"
                 android:text="Title"
                 android:textSize="18sp"
-                android:fontFamily="@font/brandon_med" />
+                android:fontFamily="@font/gotham_medium" />
 
             <TextView
                 android:id="@+id/sub_title"
@@ -69,7 +69,7 @@
                 android:paddingBottom="4dp"
                 android:text="SubTitle"
                 android:textSize="16sp"
-                android:fontFamily="@font/brandon_light" />
+                android:fontFamily="@font/gotham_light" />
 
             <TextView
                 android:id="@+id/speakers"
@@ -78,7 +78,7 @@
                 android:paddingTop="4dp"
                 android:text="Speakers"
                 android:textSize="16sp"
-                android:fontFamily="@font/brandon_reg" />
+                android:fontFamily="@font/gotham_book" />
 
 
 

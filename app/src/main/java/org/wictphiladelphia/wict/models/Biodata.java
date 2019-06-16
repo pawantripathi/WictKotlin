@@ -20,37 +20,47 @@ public class Biodata implements Serializable{
     private static HashMap<String, Integer> resMapping= new HashMap();
 
     static{
-        resMapping.put("amulder.png", R.drawable.amulder);
-        resMapping.put("agrannas.png", R.drawable.agrannas);
-        resMapping.put("ateal.png", R.drawable.ateal);
-        resMapping.put("aravisankar.png", R.drawable.aravisankar);
-        resMapping.put("bkissinger.png", R.drawable.bkissinger);
-        resMapping.put("ckocks.png", R.drawable.ckocks);
-        resMapping.put("cpower.png", R.drawable.cpower);
-        resMapping.put("ckey.png", R.drawable.ckey);
-        resMapping.put("dfrigeri.png", R.drawable.dfrigeri);
+        resMapping.put("aehlenberger.png", R.drawable.aehlenberger);
+        resMapping.put("ahochstuhl.png", R.drawable.ahochstuhl);
+        resMapping.put("beckman.png", R.drawable.beckman);
+        resMapping.put("bkerl.png", R.drawable.bkerl);
+        resMapping.put("cbean.png", R.drawable.cbean);
+        resMapping.put("cgoldstein.png", R.drawable.cgoldstein);
+        resMapping.put("cpetonic.png", R.drawable.cpetonic);
+        resMapping.put("dcohn.png", R.drawable.dcohn);
+        resMapping.put("ddhamani.png", R.drawable.ddhamani);
+        resMapping.put("dross.png", R.drawable.dross);
+        resMapping.put("fvu.png", R.drawable.fvu);
+        resMapping.put("fwan.png", R.drawable.fwan);
+        resMapping.put("gbrevarts.png", R.drawable.gbrevarts);
+        resMapping.put("hkhimani.png", R.drawable.hkhimani);
         resMapping.put("hvora.png", R.drawable.hvora);
-        resMapping.put("jheck.png", R.drawable.jheck);
-        resMapping.put("jcloer.png", R.drawable.jcloer);
-        resMapping.put("jdees.png", R.drawable.jdees);
-        resMapping.put("jmoffat.png", R.drawable.jmoffat);
-        resMapping.put("koh.png", R.drawable.koh);
-        resMapping.put("kholmes.png", R.drawable.kholmes);
-        resMapping.put("lloving.png", R.drawable.lloving);
-        resMapping.put("lszkrybalo.png", R.drawable.lszkrybalo);
-        resMapping.put("mbrennan.png", R.drawable.mbrennan);
-        resMapping.put("msabraw.png", R.drawable.msabraw);
-        resMapping.put("mmalone.png", R.drawable.mmalone);
-        resMapping.put("mcorsini.png", R.drawable.mcorsini);
-        resMapping.put("mstevens.png", R.drawable.mstevens);
-        resMapping.put("nbergman.png", R.drawable.nbergman);
+        resMapping.put("ibaggili.png", R.drawable.ibaggili);
+        resMapping.put("jabruzzese.png", R.drawable.jabruzzese);
+        resMapping.put("jkurtz.png", R.drawable.jkurtz);
+        resMapping.put("jmarpet.png", R.drawable.jmarpet);
+        resMapping.put("jpoirier.png", R.drawable.jpoirier);
+        resMapping.put("jsmith.png", R.drawable.jsmith);
+        resMapping.put("jwiseman.png", R.drawable.jwiseman);
+        resMapping.put("kpfeifer.png", R.drawable.kpfeifer);
         resMapping.put("ptripathi.png", R.drawable.ptripathi);
-        resMapping.put("rvargiya.png", R.drawable.rvargiya);
-        resMapping.put("smuralidharan.png", R.drawable.smuralidharan);
-        resMapping.put("jkeen.png", R.drawable.jkeen);
-        resMapping.put("mray.png", R.drawable.mray);
-        resMapping.put("smoon.png", R.drawable.smoon);
-        resMapping.put("jschalkwyk.png", R.drawable.jschalkwyk);
+        resMapping.put("lrainey.png", R.drawable.lrainey);
+        resMapping.put("mcorsini.png", R.drawable.mcorsini);
+        resMapping.put("mfrancisco.png", R.drawable.mfrancisco);
+        resMapping.put("mhenderson.png", R.drawable.mhenderson);
+        resMapping.put("mriesen.png", R.drawable.mriesen);
+        resMapping.put("msaltares.png", R.drawable.msaltares);
+        resMapping.put("mtinney.png", R.drawable.mtinney);
+        resMapping.put("nleal.png", R.drawable.nleal);
+        resMapping.put("pbojja.png", R.drawable.pbojja);
+        resMapping.put("rmoorthy.png", R.drawable.rmoorthy);
+        resMapping.put("rrakoski.png", R.drawable.rrakoski);
+        resMapping.put("salla.png", R.drawable.salla);
+        resMapping.put("swenzel.png", R.drawable.swenzel);
+        resMapping.put("ttalase.png", R.drawable.ttalese);
+        resMapping.put("wbehm.png", R.drawable.wbehm);
+
+
 
 
     }

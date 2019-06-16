@@ -12,6 +12,7 @@ import org.wictphiladelphia.wict.R
 
 import org.wictphiladelphia.wict.models.Biodata;
 import android.content.Context
+import android.util.Log
 import android.view.View
 import kotlinx.android.synthetic.main.bios_row_item.view.*
 
@@ -40,7 +41,13 @@ class BiosAdapter(private val biosList: ArrayList<Biodata>,
 
     override fun onBindViewHolder(holder: BiosViewHolder, position: Int) {
 
+
         val biodata = biosList.get(position)
+        if (biodata == null){
+            Log.d("bios", biodata.toString());
+
+        }
+
         holder.nameView.text = biodata.name
         holder.designationView.text = biodata.designation
 //        holder.avatarView.setImageResource(biodata.imageRes)

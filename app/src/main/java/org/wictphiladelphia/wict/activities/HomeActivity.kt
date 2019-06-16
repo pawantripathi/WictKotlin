@@ -36,7 +36,6 @@ class HomeActivity : AppCompatActivity() {
                 }
 
                 loadFragment(childFragment, "about", R.id.fragment_container)
-                changeStatusBarColor(lavendar!!)
                 toolbar_title.text = resources.getString(R.string.fragment_title_about)
 
                 return@OnNavigationItemSelectedListener true
@@ -48,7 +47,6 @@ class HomeActivity : AppCompatActivity() {
                 }
 
                 loadFragment(childFragment, "schedule", R.id.fragment_container)
-                changeStatusBarColor(indigo!!)
                 toolbar_title.text = resources.getString(R.string.title_schedule)
 
                 return@OnNavigationItemSelectedListener true
@@ -59,7 +57,6 @@ class HomeActivity : AppCompatActivity() {
                     childFragment = LocationFragment.newInstance()
                 }
                 loadFragment(childFragment, "location", R.id.fragment_container)
-                changeStatusBarColor(pink!!)
                 toolbar_title.text = resources.getString(R.string.title_location)
 
                 return@OnNavigationItemSelectedListener true
@@ -71,7 +68,6 @@ class HomeActivity : AppCompatActivity() {
                 }
                 loadFragment(childFragment, "sponsor", R.id.fragment_container)
                 toolbar_title.text = resources.getString(R.string.title_sponsor)
-                changeStatusBarColor(cyan!!)
                 return@OnNavigationItemSelectedListener true
             }
             R.id.navigation_bios -> {
@@ -80,7 +76,6 @@ class HomeActivity : AppCompatActivity() {
                 }
 
                 toolbar_title.text = resources.getString(R.string.title_bios)
-                changeStatusBarColor(lavendar!!)
                 loadFragment(childFragment, "bio", R.id.fragment_container)
                 return@OnNavigationItemSelectedListener true
 
@@ -101,10 +96,7 @@ class HomeActivity : AppCompatActivity() {
     }
 
 
-    var pink:Int? = 0
-    var lavendar:Int? = 0
-    var cyan:Int? = 0
-    var indigo:Int? = 0
+
 
     override fun onCreate(savedInstanceState: Bundle?) {
         window.addFlags(WindowManager.LayoutParams.FLAG_DRAWS_SYSTEM_BAR_BACKGROUNDS)
@@ -112,10 +104,6 @@ class HomeActivity : AppCompatActivity() {
 
         super.onCreate(savedInstanceState)
 
-        pink = ResourcesCompat.getColor(resources, R.color.pink, null)
-        lavendar = ResourcesCompat.getColor(resources, R.color.lavender, null)
-        cyan = ResourcesCompat.getColor(resources, R.color.cyan, null)
-        indigo = ResourcesCompat.getColor(resources, R.color.indigo, null)
 
         setContentView(R.layout.activity_home)
         navigation.disableShiftMode()
@@ -157,13 +145,6 @@ class HomeActivity : AppCompatActivity() {
         startActivity(openUrl)
     }
 
-    fun showUniversityMap(view: View){
-        UniversityMap.show(this)
-    }
-
-    fun showLetter(view:View){
-        Letter.show(this)
-    }
 
     fun showThanks(view: View){
         Thanks.show(this)

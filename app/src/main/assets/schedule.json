@@ -1,14 +1,14 @@
  [
   {
-  "Time": "8:00am - 10:00am",
+  "Time": "8:00am - 09:00am",
   "Title": "Registration and Continental Breakfast",
   "Subtitle": "",
-  "Location": "Connelly Center",
+  "Location": "Liberty Ballroom",
   "Speakers": "",
   "Label": ""
   },
   {
-  "Time": "8:00am - 5:15pm",
+  "Time": "8:00am - 5:00pm",
   "Title": "Sponsor Showcase",
   "Subtitle": "",
   "Location": "",
@@ -16,215 +16,175 @@
   "Label": ""
   },
   {
-  "Time": "8:45am",
-  "Title": "PhillyBloco – Brazilian Music to Shake Your Body and Soul",
-  "Subtitle": "",
-  "Location": "",
-  "Speakers": "",
-  "Label": ""
-  },
-  {
-  "Time": "9:15am",
+  "Time": "9:00am - 11:30am",
   "Title": "Morning General Sessions",
   "Subtitle": "",
-  "Location": "Connelly Center, Villanova Room",
+  "Location": "Liberty Ballroom",
   "Speakers": "",
   "Label": ""
   },
   {
-  "Time": "",
-  "Title": "Chris Power and Alexa",
+  "Time": "9:00am - 9:15am",
+  "Title": "Welcome & Master Of Ceremonies",
   "Subtitle": "",
   "Location": "",
-  "Speakers": "Chris Power, Senior Principal Engineer, Comcast",
+  "Speakers": "Luci Rainey, SVP, Comcast",
   "Label": ""
   },
   {
-  "Time": "",
-  "Title": "Orientation",
-  "Subtitle": "WICT Philadelphia Co-Directors, Tech It Out 2018:",
-  "Location": "",
-  "Speakers": "Mary Malone, Principal Engineer, Comcast and Michele Corsini, Senior Director of Solution Management, Comcast",
-  "Label": ""
-  },
-  {
-  "Time": "",
-  "Title": "Welcome to Villanova",
+  "Time": "9:15am - 10:00am",
+  "Title": "Panel - Elevating Women In Technology: Invest. Inspire. Innovate.",
   "Subtitle": "",
   "Location": "",
-  "Speakers": "Dr. Amanda Grannas, Associate Vice Provost for Research, Villanova University",
+  "Speakers": "Moderator – Ami Ehlenberger, Comcast Panelists – Jennifer Kurtz, Vertex; Courtney Goldstein, Comcast; Reshma Moorthy, Frontier Technologies; Aubrey Hochstuhl, PWC",
   "Label": ""
+  },
+  {
+  "Time": "10am - 10:45am",
+  "Title": "Immersive Virtual Insanity: Exploring Immersive Virtual Reality Security & Forensics",
+  "Subtitle": "",
+  "Location": "",
+  "Speakers": "Ibrahim (Abe) Baggili, Elder Family Endowed Chair, Univer- sity of New Haven",
+  "Label": ""
+  },
+  {
+  "Time": "10:45am - 11:30am",
+  "Title": "Keynote: Startup DNA",
+  "Subtitle": "",
+  "Location": "",
+  "Speakers": "Danielle Cohn, Head of Comcast NBCUniversal LIFT Labs Danish Dhamani, Co-Founder & CEO, Orai",
+  "Label": ""
+  },
+  {
+  "Time": "11:35am - 12:20pm",
+  "Title": "Track 1: Artificial Intelligence For IT Operations (AIOps)",
+  "Subtitle": "",
+  "Location": "SALON 3 & 4",
+  "Speakers": "Fee Vu, Head of AI / ML Practice, Pure Integration",
+  "Label": "Breakout Session #1"
   },
   {
   "Time": "",
-  "Title": "Introduction of Opening Remarks",
+  "Title": "Track 2: Cybersecurity: Dealing With The Tsunami Of Unmanaged And IOT Devices",
   "Subtitle": "",
-  "Location": "",
-  "Speakers": "Maria E. Brennan, CAE, President and CEO of Women in Cable Telecommunications (WICT)",
-  "Label": ""
+  "Location": "SALON 5 & 6",
+  "Speakers": "Bryan Kerl, Executive Director, TechTrueUp",
+  "Label": "Breakout Session #1"
   },
   {
   "Time": "",
-  "Title": "Opening Remarks",
+  "Title": "Track 3: Recent Advances In Cable Television Delivery Systems",
   "Subtitle": "",
-  "Location": "",
-  "Speakers": "Nomi Bergman, President, Advance/Newhouse",
-  "Label": ""
+  "Location": "SALON 10",
+  "Speakers": "John Wiseman, Sr. Director, CommScope",
+  "Label": "Breakout Session #1"
   },
   {
   "Time": "",
-  "Title": "Introduction of Keynote",
+  "Title": "Track 4: You Can Do It Too! (Data Science 101)",
   "Subtitle": "",
-  "Location": "",
-  "Speakers": "Jodi Friedman, VP Sales, ARRIS",
-  "Label": ""
+  "Location": "BALLROOM NORTH",
+  "Speakers": "Karen Pfeifer, Sr. Director, Comcast",
+  "Label": "Breakout Session #1"
   },
   {
-  "Time": "",
-  "Title": "Keynote: The Evolution of Voice Control",
-  "Subtitle": "",
-  "Location": "",
-  "Speakers": "Jeanine Heck, VP, AI Product, Comcast",
-  "Label": ""
-  },
-  {
-  "Time": "10:25am - 10:40am",
-  "Title": "Break",
+  "Time": "12:20PM – 1:10PM",
+  "Title": "Luncheon",
   "Subtitle": "",
   "Location": "",
   "Speakers": "",
   "Label": ""
   },
   {
-  "Time": "",
-  "Title": "Introduction of Speakers",
-  "Subtitle": "",
-  "Location": "",
-  "Speakers": "Emma Carpenter, Network Transformation Leader, Cisco",
-  "Label": ""
-  },
-  {
-  "Time": "",
-  "Title": "The Evolution of Alexa and Voice-Enabled Devices in the Home",
-  "Subtitle": "",
-  "Location": "",
-  "Speakers": "Laura Szkrybalo, Principal, Business Development, Amazon Voice Services",
-  "Label": ""
-  },
-  {
-  "Time": "",
-  "Title": "Ability Through Innovation: Empowering People with Disabilities",
-  "Subtitle": "",
-  "Location": "",
-  "Speakers": "Joel Moffatt, Principal Product Manager and Customer Experience Lead for Accessibility Team, Comcast",
-  "Label": ""
-  },
-  {
-  "Time": "",
-  "Title": "Introduction of Speaker and Chat Moderator",
-  "Subtitle": "",
-  "Location": "",
-  "Speakers": "Sunghee Moon, Google Assistant Mobile Lead, Google",
-  "Label": ""
-  },
-  {
-  "Time": "",
-  "Title": "Fireside chat with Johan Schalkwyk, Google Assistant, VP of Voice",
-  "Subtitle": "",
-  "Location": "",
-  "Speakers": "Johan Schalkwyk, VP of Engineering, Google",
-  "Label": ""
-  },
-  {
-  "Time": "12:00am - 1:15pm",
-  "Title": "Luncheon, Presentation and Film Screening",
-  "Subtitle": "",
-  "Location": "Connelly Center, Villanova Room",
-  "Speakers": "",
-  "Label": ""
-  },
-  {
-  "Time": "",
-  "Title": "Introduction of Speaker",
-  "Subtitle": "",
-  "Location": "",
-  "Speakers": "Chris Power, Senior Principal Engineer at Comcast and Alexa",
-  "Label": ""
-  },
-  {
-  "Time": "",
-  "Title": "Building an Inclusive future today",
-  "Subtitle": "",
-  "Location": "",
-  "Speakers": "Jennifer Cloer, Creator and Executive Producer, The Chasing Grace Project",
-  "Label": ""
-  },
-  {
-  "Time": "1:15pm - 1:25pm",
+  "Time": "1:10PM - 1:30PM",
   "Title": "Group Photo",
   "Subtitle": "",
-  "Location": "Front of Connelly Center",
+  "Location": "",
   "Speakers": "",
   "Label": ""
   },
   {
-  "Time": "1:30pm - 2:10pm",
-  "Title": "Track 1:#VoiceIsCoolAgain",
-  "Subtitle": "How Next Gen Tools Are Bringing Commerce Back to Basics",
-  "Location": "Connelly Center, Villanova Room",
-  "Speakers": "Anne Teal, Director of Business Solutions, CSG",
-  "Label": "Breakout Session One"
-  },
-  {
-  "Time": "",
-  "Title": "Track 2: From Screens to Scenes",
-  "Subtitle": "Voice in the Digital Home",
-  "Location": "Connelly Center, Villanova Cinema",
-  "Speakers": "Mariel Sabraw, Senior Product Manager, Comcast and Bryan Kissinger, Product Director on the Digital Home Team, Comcast",
-  "Label": "Breakout Session One"
-  },
-  {
-  "Time": "",
-  "Title": "Track 3: Why Isn’t Voice Used More Widely?",
-  "Subtitle": "Four Key Challenges Facing Adoption",
-  "Location": "Bartley Hall, Room 3010",
-  "Speakers": "Kyree Holmes, User Experience Researcher, Comcast | Founder, Onyx Valley",
-  "Label": "Breakout Session One"
-  },
-  {
-  "Time": "",
-  "Title": "Track 4: Designing Seamless and Secure Digital Experiences While Maximizing Trust and Velocity at Scale",
+  "Time": "1:35PM - 2:20PM",
+  "Title": "Track 1: Data Governance, Discovery And Lineage: Integrating Streaming Data In The Public Cloud With On-prem, Classic Data Stores",
   "Subtitle": "",
-  "Location": "Bartley Hall, Room 023A",
-  "Speakers": "Rajat Vijayvargiya, Senior Business Technology Advisor, CA Technologies",
-  "Label": "Breakout Session One"
-  },
-  {
-  "Time": "2:20pm - 3:00pm",
-  "Title": "Track 1: Prototyping Voice Control and AI Video Surveillance",
-  "Subtitle": "",
-  "Location": "Connelly Center, Villanova Room",
-  "Speakers": "Chris Kocks, Director, Internet of Things Practice, pureIntegration",
-  "Label": "Breakout Session Two"
+  "Location": "SALON 3 & 4",
+  "Speakers": "Barbara Eckman, Sr. Principal Architect, Comcast",
+  "Label": "Breakout Session #2"
   },
   {
   "Time": "",
-  "Title": "Track 2: Google Assistant Controlled Robotics",
+  "Title": "Track 2: The Emerging Role Of Quantum Computing In Machine Learning",
   "Subtitle": "",
-  "Location": "Connelly Center, Villanova Cinema",
-  "Speakers": "Jeremy Keen, Google Cloud Customer Engineer, Google",
-  "Label": "Breakout Session Two"
+  "Location": "SALON 5 & 6",
+  "Speakers": "Maxwell Henderson, Sr. Data Scientist, QxBranch",
+  "Label": "Breakout Session #2"
   },
   {
   "Time": "",
-  "Title": "Track 3: Adoption of Machine Learning in Telecommunications",
+  "Title": "Track 3: Privacy Is The New Black- Iot Security And Data Privacy In The Changing Legal Landscape",
   "Subtitle": "",
-  "Location": "Bartley Hall, Room 3010",
-  "Speakers": "David Frigeri, Practice Area Lead, Advanced Analytics and Visualization, Slalom Consulting",
-  "Label": "Breakout Session Two"
+  "Location": "SALON 10",
+  "Speakers": "Rebecca L. Rakoski, Esquire, Co-Founder & Managing Partner, XPAN Law Group, LLC & Matt Tinney, Founder and CEO, Windows Management Experts, Inc.",
+  "Label": "Breakout Session #2"
   },
   {
-  "Time": "3:00pm - 3:20pm",
+  "Time": "",
+  "Title": "Track 4: Panel: Emerging Technologies - Impact On Recruitment + Hiring",
+  "Subtitle": "",
+  "Location": "LIBERTY BALLROOM",
+  "Speakers": "Moderator: Cara Petonic, Senior Director, Comcast Panelists: Whitney Behm, Manager, Comcast; Juliet Abruzz- ese, Manager, Comcast; Mylei Saltares, Sr. Recruiter, Com- cast; Himalay Khimani, Manager, Comcast",
+  "Label": "Breakout Session #2"
+  },
+  {
+  "Time": "",
+  "Title": "Track 5: Data In Business: Closing The Last First Mile Gap.",
+  "Subtitle": "",
+  "Location": "BALLROOM NORTH",
+  "Speakers": "Josée Poirier, Data Scientist, Pluralsight",
+  "Label": "Breakout Session #2"
+  },
+  {
+  "Time": "2:25PM - 3:10PM",
+  "Title": "Track 1: Viewing Habits, GDPR, And CCPA. Private Information Or Public Data",
+  "Subtitle": "",
+  "Location": "SALON 3 & 4",
+  "Speakers": "Joshua Marpet, Red Lion",
+  "Label": "Breakout Session #3"
+  },
+  {
+  "Time": "",
+  "Title": "Track 2: Cloud Demystified",
+  "Subtitle": "",
+  "Location": "SALON 5 & 6",
+  "Speakers": "Fei Wan, Sr. Principal Architect, Comcast",
+  "Label": "Breakout Session #3"
+  },
+  {
+  "Time": "",
+  "Title": "Track 3: Defining The Role Of The Citizen Data Scientist: Practical Applications & Tips To Maximize Impact",
+  "Subtitle": "",
+  "Location": "SALON 10",
+  "Speakers": "Grace Brevart, Senior Manager, Comcast",
+  "Label": "Breakout Session #3"
+  },
+  {
+  "Time": "",
+  "Title": "Track 4: Reshaping Business Using AI",
+  "Subtitle": "",
+  "Location": "BALLROOM NORTH",
+  "Speakers": "Sridhar Alla, Co-Founder & CTO, Blue Whale Preethi Bojja, Senior Data Scientist, Comcast",
+  "Label": "Breakout Session #3"
+  },
+  {
+  "Time": "",
+  "Title": "Track 5: Digital Tech, Social Media And Rethinking The Way Companies Use Data",
+  "Subtitle": "",
+  "Location": "LIBERTY BALLROOM",
+  "Speakers": "Nuno Leal, Senior Manager, EY",
+  "Label": "Breakout Session #3"
+  },
+  {
+  "Time": "3:10PM - 3:25PM",
   "Title": "Break",
   "Subtitle": "",
   "Location": "",
@@ -232,67 +192,51 @@
   "Label": ""
   },
   {
-  "Time": "3:20pm - 4:00pm",
-  "Title": "Track 1: ARRIS Voice Assistants to Manage Home Wi-Fi Devices",
+  "Time": "3:25PM - 4:10PM",
+  "Title": "Track 1: How Consumer Insights Can Drive Tech Innovation",
   "Subtitle": "",
-  "Location": "Connelly Center, Villanova Room",
-  "Speakers": "Satya Muralidharan, Software Engineering Manager, ARRIS",
-  "Label": "Breakout Session Three"
+  "Location": "SALON 3 & 4",
+  "Speakers": "Cynthia Bean, Comcast",
+  "Label": "Breakout Session #4"
   },
   {
   "Time": "",
-  "Title": "Track 2: Alexa at the Children’s Hospital of Philadelphia",
+  "Title": "Track 2: Security Across The Enterprise And The Cloud",
   "Subtitle": "",
-  "Location": "Connelly Center, Villanova Cinema",
-  "Speakers": "Kelsey Oh, Venture and Innovation Analyst, The Children’s Hospital of Philadelphia and Aaron Mulder, CTO & Director, Chariot Solutions",
-  "Label": "Breakout Session Three"
+  "Location": "SALON 5 & 6",
+  "Speakers": "Sandra Wenzel, Consulting Engineer, Palo Alto Networks",
+  "Label": "Breakout Session #4"
   },
   {
   "Time": "",
-  "Title": "Track 3: Enriching Digital Content with AI Speech and Translation",
+  "Title": "Track 3: The Convergence Of Emerging Technologies (Blockchain & AI)",
   "Subtitle": "",
-  "Location": "Bartley Hall, Room 3010",
-  "Speakers": "LaBrina Loving, Senior Software Engineer, Microsoft",
-  "Label": "Breakout Session Three"
-  },
-  {
-  "Time": "4:10pm",
-  "Title": "Closing Remarks and Giveaways",
-  "Subtitle": "",
-  "Location": "Connelly Center, Villanova Room",
-  "Speakers": "",
-  "Label": ""
+  "Location": "SALON 10",
+  "Speakers": "Michael J. Riesen M.S.E., J.D., Partner, SGR Labs / Smith Gambrell and Russell, LLP",
+  "Label": "Breakout Session #4"
   },
   {
   "Time": "",
-  "Title": "Introduction of Speaker",
+  "Title": "Track 4: Affective Computing And Emotional Intelligence",
   "Subtitle": "",
-  "Location": "",
-  "Speakers": "Zenita Henderson, President of WICT Greater Philadelphia Chapter and Senior Director, Marketing, Business Development & National Conferences, SCTE•ISBE",
-  "Label": ""
+  "Location": "BALLROOM NORTH",
+  "Speakers": "Mark Francisco, Fellow, Comcast",
+  "Label": "Breakout Session #4"
   },
   {
   "Time": "",
+  "Title": "Track 5: Information Security",
+  "Subtitle": "",
+  "Location": "LIBERTY BALLROOM",
+  "Speakers": "Donna Ross, Chief Information Security Offcer, Radian Group",
+  "Label": "Breakout Session #4"
+  },
+  {
+  "Time": "4:15PM - 4:30PM",
   "Title": "Closing Remarks",
   "Subtitle": "",
-  "Location": "",
-  "Speakers": "Michelle A. Ray, Active Executive Director, Walter Kaitz Foundation",
-  "Label": ""
-  },
-  {
-  "Time": "",
-  "Title": "Giveaways",
-  "Subtitle": "",
-  "Location": "",
-  "Speakers": "",
-  "Label": ""
-  },
-  {
-  "Time": "4:30pm",
-  "Title": "Reception",
-  "Subtitle": "",
-  "Location": "Connelly Center, Atrium",
-  "Speakers": "",
+  "Location": "Liberty Ballroom",
+  "Speakers": "Jacquelyn Smith",
   "Label": ""
   }
-  ]
+   ]

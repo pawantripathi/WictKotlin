@@ -1,34 +1,56 @@
 [
-{
-	"Category": 1,
-	"Title":"Global Sponsors",
-	"Sponsors":["arris.png","cisco.png"]
-},
-{
-	"Category": 1,
-	"Title":"Industry Partners",
-	"Sponsors":["kaitz.png","namic.png"]
-},
-{
-	"Category": 2,
-	"Title":"Premier Sponsors",
-	"Sponsors":["cisco.png","comcastbusiness.png", "comcastfreewheel.png", "tpx.png"]
-},
-{
-	"Category": 2,
-	"Title":"Platinum Sponsors",
-	"Sponsors":["arris.png","pwc.png","pluralsight.png", "qvc.png","scte.png","signature.png"]
-},
-{
-	"Category": 2,
-	"Title":"Gold Sponsors",
-	"Sponsors":["ae.png","amdocs.png", "csg.png", "eplus.png","espn.png","hbo.png","juniper.png","optia.png","pureintegration.png"]
-},
-{
-	"Category": 2,
-	"Title":"Silver Sponsors",
-	"Sponsors":["partners.png","stafftech.png", "mediacopy.png"]
-}
-
+  {
+    "Category": 1,
+    "Title": "Global Sponsors",
+    "Sponsors": [
+      "arris_logo.png",
+      "cisco_logo.png"
+    ]
+  },
+  {
+    "Category": 2,
+    "Title": "Premier Sponsors",
+    "Sponsors": [
+      "comcastbusiness_logo.png",
+      "freewheel_spotlight_logo.png",
+      "signature_logo.png"
+    ]
+  },
+  {
+    "Category": 2,
+    "Title": "Platinum Sponsors",
+    "Sponsors": [
+      "arris_logo.png",
+      "cisco_logo.png",
+      "ernstyoung_logo.png",
+      "qurate_networks_logo.png",
+      "scte_isbe_logo.png"
+    ]
+  },
+  {
+    "Category": 2,
+    "Title": "Gold Sponsors",
+    "Sponsors": [
+      "amdocs_logo.png",
+      "eplus_logo.png",
+      "espn_logo.png",
+      "hbo_logo.png",
+      "optia_logo.png",
+      "pureintegration_logo.png",
+      "pwc_logo.png",
+      "comcast_univ_logo.png"
+    ]
+  },
+  {
+    "Category": 2,
+    "Title": "Silver Sponsors",
+    "Sponsors": [
+      "ae_networks_logo.png",
+      "juniper_networks_logo.png",
+      "partners_consulting_logo.png",
+      "pluralsight_logo.png",
+      "vsoft_logo.png"
+    ]
+  }
 ]
 

@@ -21,9 +21,9 @@ public class ChildWrappingContainer extends LinearLayout {
     private LinearLayout.LayoutParams mParams;
     private static int index = 0;
     private int[] titleColors = new int[]{
-            R.drawable.indigo_pill,
-            R.drawable.lavendar_pill,
-            R.drawable.pink_pill,
+            R.drawable.blue_pill,
+            R.drawable.blue_pill,
+            R.drawable.blue_pill,
             R.drawable.blue_pill
     };
 
@@ -53,7 +53,7 @@ public class ChildWrappingContainer extends LinearLayout {
         mCategoryTitle.setBackgroundResource(getTitleBkg());
 
 
-        for (int res: children){
+        for (Integer res: children){
             mChildContainer.addView(getChild(res), mParams);
         }
 
@@ -89,8 +89,9 @@ public class ChildWrappingContainer extends LinearLayout {
     }
 
     private View getChild(int imageRes){
-        return mInflater.inflate(R.layout.logo_view, null, false);
+        ImageView logoImageView = (ImageView) mInflater.inflate(R.layout.logo_view, null, false);
+        logoImageView.setImageResource(imageRes);
 
-
+        return logoImageView;
     }
 }

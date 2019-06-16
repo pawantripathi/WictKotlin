@@ -39,7 +39,7 @@ class Thanks: ModalActivity(){
         note.text = resources.getString(R.string.special_thanks)
 
         toolbar_title.text = "Thank you!"
-        changeStatusBarColor(ResourcesCompat.getColor(resources, R.color.lavender, null))
+        changeStatusBarColor(ResourcesCompat.getColor(resources, R.color.colorPrimary, null))
     }
 
 

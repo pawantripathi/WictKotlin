@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:background="@color/pink"
+    android:background="@color/colorPrimary"
     android:elevation="5dp"
     app:theme="@style/AppTheme.AppToolbar">
 
@@ -14,7 +14,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:fontFamily="@font/brandon_reg" />
+        android:fontFamily="@font/gotham_book" />
 
 
 </android.support.v7.widget.Toolbar>

@@ -14,14 +14,14 @@
             android:id="@+id/category_title"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:fontFamily="@font/brandon_med"
+            android:fontFamily="@font/gotham_medium"
             android:gravity="center"
             android:layout_margin="4dp"
             android:textSize="16sp"
             android:layout_gravity="right"
             android:textColor="@color/solid_white"
+            android:padding="4dp"
             android:background="@drawable/blue_pill"
-
             />
 
         <com.google.android.flexbox.FlexboxLayout

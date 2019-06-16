@@ -35,7 +35,7 @@ class UniversityMap: ModalActivity(){
         supportActionBar?.setDisplayShowTitleEnabled(false)
 
         toolbar_title.text = "University Map"
-        changeStatusBarColor(ResourcesCompat.getColor(resources, R.color.pink, null))
+        changeStatusBarColor(ResourcesCompat.getColor(resources, R.color.colorPrimary, null))
     }
 
 

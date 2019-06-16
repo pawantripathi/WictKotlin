@@ -26,9 +26,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/about_event_title"
-                android:textColor="@color/lavender"
+                android:textColor="@color/colorPrimary"
                 android:textSize="20sp"
-                android:fontFamily="@font/brandon_reg"
+                android:fontFamily="@font/gotham_book"
                 android:textAllCaps="true"
                 />
 
@@ -36,12 +36,20 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/about_event_subtitle"
-
                 android:textSize="14sp"
-                android:fontFamily="@font/brandon_light"
+                android:fontFamily="@font/gotham_light"
                 android:paddingTop="4dp"
                 android:paddingBottom="4dp"
+                />
 
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/about_event_invite"
+                android:paddingTop="4dp"
+                android:paddingBottom="4dp"
+                android:textSize="18sp"
+                android:fontFamily="@font/gotham_book"
                 />
 
             <TextView
@@ -50,9 +58,9 @@
                 android:text="@string/about_event_date"
                 android:textSize="16sp"
                 android:paddingTop="4dp"
-                android:textColor="@color/lavender"
+                android:textColor="@color/colorPrimary"
                 android:paddingBottom="4dp"
-                android:fontFamily="@font/brandon_bld"
+                android:fontFamily="@font/gotham_bold"
                 />
 
             <View
@@ -70,28 +78,14 @@
                 android:linksClickable="true"
                 android:text="@string/about_wict_text"
                 android:textSize="18sp"
-                android:fontFamily="@font/brandon_reg"
+                android:fontFamily="@font/gotham_book"
                 />
-
-            <Button
-                android:id="@+id/show_letter"
-                android:layout_width="match_parent"
-                android:layout_height="48dp"
-                android:background="@color/lavender"
-                android:gravity="center"
-                android:onClick="showLetter"
-                android:textAllCaps="false"
-                android:padding="8dp"
-                android:text="Show Maria Brennan's letter"
-                android:textColor="@color/solid_white"
-                android:textSize="16sp"
-                android:fontFamily="@font/brandon_med" />
 
             <Button
                 android:id="@+id/show_thankyou_note"
                 android:layout_width="match_parent"
                 android:layout_height="48dp"
-                android:background="@color/lavender"
+                android:background="@color/colorAccent"
                 android:gravity="center"
                 android:onClick="showThanks"
                 android:textAllCaps="false"
@@ -99,7 +93,7 @@
                 android:text="Special thanks to.."
                 android:textColor="@color/solid_white"
                 android:textSize="16sp"
-                android:fontFamily="@font/brandon_med"
+                android:fontFamily="@font/gotham_medium"
                 android:layout_marginTop="8dp"/>
         </LinearLayout>
 

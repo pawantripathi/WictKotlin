@@ -38,7 +38,7 @@ class Letter: ModalActivity(){
         supportActionBar?.setDisplayShowTitleEnabled(false)
 
         toolbar_title.text = "Letter"
-        changeStatusBarColor(ResourcesCompat.getColor(resources, R.color.lavender, null))
+        changeStatusBarColor(ResourcesCompat.getColor(resources, R.color.colorPrimary, null))
     }
 
 

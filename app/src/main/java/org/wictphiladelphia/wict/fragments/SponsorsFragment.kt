@@ -2,6 +2,7 @@ package org.wictphiladelphia.wict.fragments
 
 import android.os.Bundle
 import android.support.v4.app.Fragment
+import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -49,14 +50,15 @@ class SponsorsFragment: Fragment(){
         super.onActivityCreated(savedInstanceState)
         loadSponsors()
 
-
         for (info in sponsors){
+
             val sponsorCategoryView = ChildWrappingContainer(activity, info.title, info.sponsorIcons)
             if (info.category == 1){
                 main_container.addView(sponsorCategoryView)
             }else{
                 secondary_container.addView(sponsorCategoryView)
             }
+
 
             sponsorCategoryView.lazyLoad(activity)
         }

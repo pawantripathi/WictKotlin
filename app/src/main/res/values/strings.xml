@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Wict</string>
     <string name="title_about">Info</string>
-    <string name="fragment_title_about">WICT Tech It Out 2018</string>
+    <string name="fragment_title_about">WICT Tech It Out 2019</string>
     <string name="title_schedule">Schedule</string>
     <string name="title_location">Location</string>
     <string name="title_sponsor">Sponsors</string>
@@ -12,27 +12,21 @@
 
 
     <!-- Fragment text -->
-    <string name="about_event_title">The Age of Voice Control</string>
-    <string name="about_event_subtitle">Presented by the Greater Philadelphia Chapter of Women in Cable Telecommunications in partnership with WICT Global</string>
-    <string name="about_event_date">July 18, 2018 - Villanova University, Villanova, PA</string>
+    <string name="about_event_title">Tech It Out 2019 Emerging Technologies – Explore the Possibilities </string>
+    <string name="about_event_subtitle">Presented by the Greater Philadelphia Chapter of Women in Cable Telecommunications</string>
+    <string name="about_event_invite">Come join us on June 25th to learn more about Data Privacy, Security, Cloud, Digital Transformation, Artificial Intelligence and much more!</string>
+    <string name="about_event_date">June 25, 2019 \n8:00am – 4:30pm \nPhiladelphia 201 Hotel, Philadelphia, PA</string>
 
-    <string name="about_wict_text">Almost half of American adults are using digital voice assistants on their smartphones, in their cars and on other devices such as Amazon Echo and Google Home. The advances in recent years of technologies to support voice and conversational user interfaces are transporting our businesses and society into a new age of voice control.
-&lt;br /&gt;Join us at WICT TIO 2018 and meet some of the experts who will demo products and talk about how voice and conversational user interfaces are designed, what technologies enable them, how they are being used, and why they are changing our lives.
-&lt;br /&gt;Our event is open to the public, including men and women. Students under 18 must be supervised by an adult.
-&lt;br /&gt;REGISTER TODAY!
-http://www.wictphiladelphia.org/event/tio2018 </string>
+    <string name="about_wict_text">Tech It Out is an all-day conference celebrating cutting-edge technologies, innovation, STEM Student Outreach, expert speakers, and influential technology leaders.  Tech IT Out gives our stakeholders tools they need to keep pace with the latest advances in technology while connecting them with industry leaders and pioneers.  And through Tech It Out, you will discover new and innovative technology to inspire you on your journey.  It’s time to Explore the Possibilities.
 
-    <string name="special_thanks">Very special thanks to these amazing members of WICT of Greater Philadelphia who contributed their many talents,
-        and devoted countless hours of their time to help create and organize
-        WICT Tech It Out 2018: Allison Sims, Brenda Belkin, Chelsea Badeau, Chelsey May, Eileen Murphy, Emily Nikoo, Erin Kelly, Jeanne Ciampa,
-        Jill Formichella, Laila Imam, Lauren Blevins, Manasa Kashi, Marichelle Rocha, Melissa Doogan, Nancy Rieti,
-        Nidhi Desai, Stephanie Higgins. And thanks to TechWomen Philly.
-        \n\nIn this Age of Voice Control--print is still important.
-        The Greater Philadelphia Chapter of WICT would like to recognize our amazing in-kind designer Signature
-        for the beautiful branding and design work in support of Tech It Out 2018.</string>
+Our event is open to the public, including men, women and students.
+Students under 18 must be supervised by an adult.
+ </string>
+
+    <string name="special_thanks">Very special thanks to these amazing members of WICT of Greater Philadelphia who contributed their many talents, and devoted countless hours of their time to help create and organize WICT Tech It Out 2019: Adreck McDonald, Brenda Belkin, Chelsea Badeau, Chelsey May, Daneen Baird, Erin McConchie, Laila Imam, Liz Levander, Mallika Krishnamoorthy, Mary Brocato, Michele Corsini, Ruchita Patel, Rajashree Srivatsan, Sonya Patton, Teresa Talese.</string>
 
     <string name="location_invite">Join us for WICT Philadelphia Tech It Out event at: </string>
-    <string name="location">Villanova University, 800 E Lancaster Avenue, Villanova, PA, 19085</string>
+    <string name="location">Philadelphia 201 Hotel, 201 North 17th Street, Philadelphia, Pennsylvania, 19103 USA</string>
 
-    <string name="registration_url">https://events.r20.constantcontact.com/register/eventReg?oeidk=a07ef910bkua2d2fc1c</string>
+    <string name="registration_url">https://events.r20.constantcontact.com/register/eventReg?oeidk=a07eg8v711o924e7de0</string>
 </resources>

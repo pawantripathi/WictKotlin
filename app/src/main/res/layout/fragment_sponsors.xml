@@ -30,7 +30,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:fontFamily="@font/brandon_reg"
+                        android:fontFamily="@font/gotham_book"
                         android:text="WICT Tech It Out"
                         android:padding="4dp"
                         android:textSize="18sp" />
@@ -51,7 +51,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:fontFamily="@font/brandon_reg"
+                        android:fontFamily="@font/gotham_book"
                         android:text="WICT of Greater Philadelphia Sponsors"
                         android:padding="4dp"
                         android:textSize="18sp" />
