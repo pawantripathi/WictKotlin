@@ -21,4 +21,5 @@
     <color name="solid_red">#FF4753</color>
     <color name="solid_green">#009900</color>
     <color name="solid_blue">#319ed9</color>
+    <color name="black">#111111</color>
 </resources>

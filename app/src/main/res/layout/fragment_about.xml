@@ -26,20 +26,22 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/about_event_title"
-                android:textColor="@color/colorPrimary"
-                android:textSize="20sp"
-                android:fontFamily="@font/gotham_book"
+                android:textColor="@color/black"
+                android:textSize="18sp"
+                android:fontFamily="@font/gotham_bold"
                 android:textAllCaps="true"
+
                 />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/about_event_subtitle"
-                android:textSize="14sp"
-                android:fontFamily="@font/gotham_light"
+                android:textSize="12sp"
+                android:fontFamily="@font/gotham_bold"
                 android:paddingTop="4dp"
                 android:paddingBottom="4dp"
+                android:layout_marginBottom="8dp"
                 />
 
             <TextView
@@ -48,27 +50,24 @@
                 android:text="@string/about_event_invite"
                 android:paddingTop="4dp"
                 android:paddingBottom="4dp"
-                android:textSize="18sp"
+                android:textSize="14sp"
                 android:fontFamily="@font/gotham_book"
+                android:textColor="@color/black"
                 />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/about_event_date"
-                android:textSize="16sp"
+                android:textSize="14sp"
                 android:paddingTop="4dp"
-                android:textColor="@color/colorPrimary"
+                android:textColor="@color/black"
                 android:paddingBottom="4dp"
-                android:fontFamily="@font/gotham_bold"
+                android:fontFamily="@font/gotham_book"
+                android:layout_marginBottom="12dp"
                 />
 
-            <View
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:background="@color/dark_gray"
-                android:layout_marginTop="8dp"
-                android:layout_marginBottom="8dp"/>
+
 
             <TextView
                 android:id="@+id/about"
@@ -77,8 +76,9 @@
                 android:layout_marginBottom="16dp"
                 android:linksClickable="true"
                 android:text="@string/about_wict_text"
-                android:textSize="18sp"
+                android:textSize="14sp"
                 android:fontFamily="@font/gotham_book"
+                android:textColor="@color/black"
                 />
 
             <Button
@@ -92,7 +92,7 @@
                 android:padding="8dp"
                 android:text="Special thanks to.."
                 android:textColor="@color/solid_white"
-                android:textSize="16sp"
+                android:textSize="18sp"
                 android:fontFamily="@font/gotham_medium"
                 android:layout_marginTop="8dp"/>
         </LinearLayout>

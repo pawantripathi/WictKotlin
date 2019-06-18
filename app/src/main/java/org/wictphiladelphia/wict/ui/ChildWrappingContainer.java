@@ -50,7 +50,7 @@ public class ChildWrappingContainer extends LinearLayout {
         mParams.setMargins(margin, margin, margin, margin);
 
         mCategoryTitle.setText(title);
-        mCategoryTitle.setBackgroundResource(getTitleBkg());
+
 
 
         for (Integer res: children){
