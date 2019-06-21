@@ -30,7 +30,8 @@
     </style>
 
     <style name="Widget.BottomNavigationView" parent="Widget.Design.BottomNavigationView">
-        <item name="fontFamily">@font/gotham_medium</item>
+        <item name="fontFamily">@font/gotham_book</item>
+        <item name="android:textSize">12sp</item>
     </style>
 
 

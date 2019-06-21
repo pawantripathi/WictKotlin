@@ -30,6 +30,7 @@
         app:itemIconTint="@drawable/bottom_nav_highlight"
         app:itemTextColor="@drawable/bottom_nav_highlight"
         app:menu="@menu/navigation"
-        android:theme="@style/Widget.BottomNavigationView"/>
+        android:theme="@style/Widget.BottomNavigationView"
+        app:labelVisibilityMode="labeled"/>
 
 </LinearLayout>
