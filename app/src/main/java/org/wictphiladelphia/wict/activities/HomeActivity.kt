@@ -131,7 +131,7 @@ class HomeActivity : AppCompatActivity() {
 
     fun launchMap(view: View){
 
-        val mapUri = Uri.parse(String.format("geo:0,0?q=%s", resources.getString(R.string.location)))
+        val mapUri = Uri.parse(String.format("geo:0,0?q=%s", resources.getString(R.string.location_lookup)))
         val mapIntent = Intent(Intent.ACTION_VIEW, mapUri)
         mapIntent.`package` ="com.google.android.apps.maps"
 
@@ -145,6 +145,9 @@ class HomeActivity : AppCompatActivity() {
         startActivity(openUrl)
     }
 
+    fun showWelcome(view: View){
+        Welcome.show(this)
+    }
 
     fun showThanks(view: View){
         Thanks.show(this)

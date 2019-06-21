@@ -24,8 +24,8 @@
             <android.support.v7.widget.AppCompatImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:minWidth="200dp"
-                android:minHeight="200dp"
+                android:minWidth="180dp"
+                android:minHeight="180dp"
                 android:id="@+id/avatar"
                 android:src="@drawable/ptripathi"
                 android:scaleType="centerCrop"/>
@@ -41,7 +41,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="Name"
-                    android:textSize="16sp"
+                    android:textSize="14sp"
                     android:textColor="@color/dark_gray"
                     android:fontFamily="@font/gotham_medium"/>
 
@@ -51,7 +51,7 @@
                     android:layout_height="wrap_content"
                     android:paddingBottom="4dp"
                     android:text="Designation"
-                    android:textSize="14sp"
+                    android:textSize="12sp"
                     android:fontFamily="@font/gotham_book"
                     android:textColor="@color/dark_gray"/>
 

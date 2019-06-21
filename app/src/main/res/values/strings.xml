@@ -26,7 +26,23 @@ Students under 18 must be supervised by an adult.
     <string name="special_thanks">Very special thanks to these amazing members of WICT of Greater Philadelphia who contributed their many talents, and devoted countless hours of their time to help create and organize WICT Tech It Out 2019: Adreck McDonald, Brenda Belkin, Chelsea Badeau, Chelsey May, Daneen Baird, Erin McConchie, Laila Imam, Liz Levander, Mallika Krishnamoorthy, Mary Brocato, Michele Corsini, Ruchita Patel, Rajashree Srivatsan, Sonya Patton, Teresa Talese.</string>
 
     <string name="location_invite">Join us for WICT Philadelphia Tech It Out event at: </string>
-    <string name="location">Philadelphia 201 Hotel, 201 North 17th Street, Philadelphia, Pennsylvania, 19103 USA</string>
+    <string name="location">Philadelphia 201 Hotel, \n201 North 17th Street, \nPhiladelphia, \nPennsylvania, 19103 USA</string>
+    <string name="location_lookup">Philadelphia 201 Hotel,201 North 17th Street,Philadelphia, Pennsylvania, 19103 USA</string>
 
     <string name="registration_url">https://events.r20.constantcontact.com/register/eventReg?oeidk=a07eg8v711o924e7de0</string>
+
+    <string name="lisa_designation">President \nWomen in Cable Telecommunications(WICT), Greater Philadelphia Chapter</string>
+
+    <string name="lisa_invite">On behalf of the WICT Philadelphia Chapter we would like to thank you for joining us at Tech It Out 2019.  We are excited to welcome you and the Tech It Out event back to the home base of our chapter – Philadelphia!  We are so thrilled to host 200+ of our industry friends to learn and engage with us for our annual one-day conference.
+
+\n\nThis year, WICT Philadelphia has worked to provide attendees with keynote speakers and sessions focused on exploring the possibilities of Emerging Technology.  In an ever changing industry, it is key for us to come together to share thoughts and ideas; to collaborate with industry partners to create an industry of empowerment, inclusion, and innovation.
+
+\n\nWICT’s Tech It Out Initiative is celebrating its 10th year.  The amount of progress the technology industry has seen in 10 years surpasses automated advances.  Women in Tech is now a worldwide community.  STEM education is growing and influencing young minds.  WICT is grateful to be a part of the progress and it continues with each one of us in this room today.
+
+\n\nI trust you will find today’s content to be inspiring and applicable to many aspects of the workplace.  We hope you will share your learnings with your teams and help shape the leaders of tomorrow.
+
+\n\nWe recognize this event could not take place without the commitment and support of our Sponsors.  Thank you to the Greater Philadelphia Chapter, volunteers, speakers, and attendees for your time and participation.
+\n\nLisa Vetere
+\nPresident
+\nWomen in Cable Telecommunications (WICT), Greater Philadelphia Chapter</string>
 </resources>

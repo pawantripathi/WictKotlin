@@ -1,234 +1,234 @@
- [
+[
   {
-  "Time": "8:00am - 09:00am",
-  "Title": "Registration and Continental Breakfast",
-  "Subtitle": "",
-  "Location": "Liberty Ballroom",
-  "Speakers": "",
-  "Label": ""
+    "Time": "8:00am - 09:00am",
+    "Title": "Registration and Continental Breakfast",
+    "Subtitle": "",
+    "Location": "Liberty Ballroom",
+    "Speakers": "",
+    "Label": ""
   },
   {
-  "Time": "8:00am - 5:00pm",
-  "Title": "Sponsor Showcase",
-  "Subtitle": "",
-  "Location": "",
-  "Speakers": "",
-  "Label": ""
+    "Time": "8:00am - 5:00pm",
+    "Title": "Sponsor Showcase",
+    "Subtitle": "",
+    "Location": "",
+    "Speakers": "",
+    "Label": ""
   },
   {
-  "Time": "9:00am - 11:30am",
-  "Title": "Morning General Sessions",
-  "Subtitle": "",
-  "Location": "Liberty Ballroom",
-  "Speakers": "",
-  "Label": ""
+    "Time": "9:00am - 11:30am",
+    "Title": "Morning General Sessions",
+    "Subtitle": "",
+    "Location": "Liberty Ballroom",
+    "Speakers": "",
+    "Label": ""
   },
   {
-  "Time": "9:00am - 9:15am",
-  "Title": "Welcome & Master Of Ceremonies",
-  "Subtitle": "",
-  "Location": "",
-  "Speakers": "Luci Rainey, SVP, Comcast",
-  "Label": ""
+    "Time": "9:00am - 9:15am",
+    "Title": "Welcome & Master Of Ceremonies",
+    "Subtitle": "",
+    "Location": "",
+    "Speakers": "Luci Rainey, SVP, Comcast",
+    "Label": ""
   },
   {
-  "Time": "9:15am - 10:00am",
-  "Title": "Panel - Elevating Women In Technology: Invest. Inspire. Innovate.",
-  "Subtitle": "",
-  "Location": "",
-  "Speakers": "Moderator – Ami Ehlenberger, Comcast Panelists – Jennifer Kurtz, Vertex; Courtney Goldstein, Comcast; Reshma Moorthy, Frontier Technologies; Aubrey Hochstuhl, PWC",
-  "Label": ""
+    "Time": "9:15am - 10:00am",
+    "Title": "Panel - Elevating Women In Technology: Invest. Inspire. Innovate.",
+    "Subtitle": "",
+    "Location": "",
+    "Speakers": "Moderator – Ami Ehlenberger, Comcast Panelists – Jennifer Kurtz, Vertex; Courtney Goldstein, Comcast; Reshma Moorthy, Frontier Technologies; Aubrey Hochstuhl, PWC",
+    "Label": ""
   },
   {
-  "Time": "10am - 10:45am",
-  "Title": "Immersive Virtual Insanity: Exploring Immersive Virtual Reality Security & Forensics",
-  "Subtitle": "",
-  "Location": "",
-  "Speakers": "Ibrahim (Abe) Baggili, Elder Family Endowed Chair, Univer- sity of New Haven",
-  "Label": ""
+    "Time": "10am - 10:45am",
+    "Title": "Immersive Virtual Insanity: Exploring Immersive Virtual Reality Security & Forensics",
+    "Subtitle": "",
+    "Location": "",
+    "Speakers": "Ibrahim (Abe) Baggili, Elder Family Endowed Chair, Univer- sity of New Haven",
+    "Label": ""
   },
   {
-  "Time": "10:45am - 11:30am",
-  "Title": "Keynote: Startup DNA",
-  "Subtitle": "",
-  "Location": "",
-  "Speakers": "Danielle Cohn, Head of Comcast NBCUniversal LIFT Labs Danish Dhamani, Co-Founder & CEO, Orai",
-  "Label": ""
+    "Time": "10:45am - 11:30am",
+    "Title": "Keynote: Startup DNA",
+    "Subtitle": "",
+    "Location": "",
+    "Speakers": "Danielle Cohn, Head of Comcast NBCUniversal LIFT Labs Danish Dhamani, Co-Founder & CEO, Orai",
+    "Label": ""
   },
   {
-  "Time": "11:35am - 12:20pm",
-  "Title": "Track 1: Artificial Intelligence For IT Operations (AIOps)",
-  "Subtitle": "",
-  "Location": "SALON 3 & 4",
-  "Speakers": "Fee Vu, Head of AI / ML Practice, Pure Integration",
-  "Label": "Breakout Session #1"
+    "Time": "11:35am - 12:20pm",
+    "Title": "Track 1: Artificial Intelligence For IT Operations (AIOps)",
+    "Subtitle": "",
+    "Location": "SALON 3 & 4",
+    "Speakers": "Fee Vu, Head of AI / ML Practice, Pure Integration",
+    "Label": "Breakout Session #1"
   },
   {
-  "Time": "",
-  "Title": "Track 2: Recent Advances In Cable Television Delivery Systems",
-  "Subtitle": "",
-  "Location": "SALON 10",
-  "Speakers": "John Wiseman, Sr. Director, CommScope",
-  "Label": "Breakout Session #1"
+    "Time": "",
+    "Title": "Track 2: Recent Advances In Cable Television Delivery Systems",
+    "Subtitle": "",
+    "Location": "SALON 10",
+    "Speakers": "John Wiseman, Sr. Director, CommScope",
+    "Label": "Breakout Session #1"
   },
   {
-  "Time": "",
-  "Title": "Track 3: You Can Do It Too! (Data Science 101)",
-  "Subtitle": "",
-  "Location": "BALLROOM NORTH",
-  "Speakers": "Karen Pfeifer, Sr. Director, Comcast",
-  "Label": "Breakout Session #1"
+    "Time": "",
+    "Title": "Track 3: You Can Do It Too! (Data Science 101)",
+    "Subtitle": "",
+    "Location": "BALLROOM NORTH",
+    "Speakers": "Karen Pfeifer, Sr. Director, Comcast",
+    "Label": "Breakout Session #1"
   },
   {
-  "Time": "12:20PM – 1:10PM",
-  "Title": "Luncheon",
-  "Subtitle": "",
-  "Location": "",
-  "Speakers": "",
-  "Label": ""
+    "Time": "12:20PM – 1:10PM",
+    "Title": "Luncheon",
+    "Subtitle": "",
+    "Location": "",
+    "Speakers": "",
+    "Label": ""
   },
   {
-  "Time": "1:10PM - 1:30PM",
-  "Title": "Group Photo",
-  "Subtitle": "",
-  "Location": "",
-  "Speakers": "",
-  "Label": ""
+    "Time": "1:10PM - 1:30PM",
+    "Title": "Group Photo",
+    "Subtitle": "",
+    "Location": "",
+    "Speakers": "",
+    "Label": ""
   },
   {
-  "Time": "1:35PM - 2:20PM",
-  "Title": "Track 1: Data Governance, Discovery And Lineage: Integrating Streaming Data In The Public Cloud With On-prem, Classic Data Stores",
-  "Subtitle": "",
-  "Location": "SALON 3 & 4",
-  "Speakers": "Barbara Eckman, Sr. Principal Architect, Comcast",
-  "Label": "Breakout Session #2"
+    "Time": "1:35PM - 2:20PM",
+    "Title": "Track 1: Data Governance, Discovery And Lineage: Integrating Streaming Data In The Public Cloud With On-prem, Classic Data Stores",
+    "Subtitle": "",
+    "Location": "SALON 3 & 4",
+    "Speakers": "Barbara Eckman, Sr. Principal Architect, Comcast",
+    "Label": "Breakout Session #2"
   },
   {
-  "Time": "",
-  "Title": "Track 2: The Emerging Role Of Quantum Computing In Machine Learning",
-  "Subtitle": "",
-  "Location": "SALON 5 & 6",
-  "Speakers": "Maxwell Henderson, Sr. Data Scientist, QxBranch",
-  "Label": "Breakout Session #2"
+    "Time": "",
+    "Title": "Track 2: The Emerging Role Of Quantum Computing In Machine Learning",
+    "Subtitle": "",
+    "Location": "SALON 5 & 6",
+    "Speakers": "Maxwell Henderson, Sr. Data Scientist, QxBranch",
+    "Label": "Breakout Session #2"
   },
   {
-  "Time": "",
-  "Title": "Track 3: Privacy Is The New Black- Iot Security And Data Privacy In The Changing Legal Landscape",
-  "Subtitle": "",
-  "Location": "SALON 10",
-  "Speakers": "Rebecca L. Rakoski, Esquire, Co-Founder & Managing Partner, XPAN Law Group, LLC & Matt Tinney, Founder and CEO, Windows Management Experts, Inc.",
-  "Label": "Breakout Session #2"
+    "Time": "",
+    "Title": "Track 3: Privacy Is The New Black- Iot Security And Data Privacy In The Changing Legal Landscape",
+    "Subtitle": "",
+    "Location": "SALON 10",
+    "Speakers": "Rebecca L. Rakoski, Esquire, Co-Founder & Managing Partner, XPAN Law Group, LLC & Matt Tinney, Founder and CEO, Windows Management Experts, Inc.",
+    "Label": "Breakout Session #2"
   },
   {
-  "Time": "",
-  "Title": "Track 4: Panel: Emerging Technologies - Impact On Recruitment + Hiring",
-  "Subtitle": "",
-  "Location": "LIBERTY BALLROOM",
-  "Speakers": "Moderator: Cara Petonic, Senior Director, Comcast Panelists: Whitney Behm, Manager, Comcast; Juliet Abruzz- ese, Manager, Comcast; Mylei Saltares, Sr. Recruiter, Com- cast; Himalay Khimani, Manager, Comcast",
-  "Label": "Breakout Session #2"
+    "Time": "",
+    "Title": "Track 4: Panel: Emerging Technologies - Impact On Recruitment + Hiring",
+    "Subtitle": "",
+    "Location": "LIBERTY BALLROOM",
+    "Speakers": "Moderator: Cara Petonic, Senior Director, Comcast Panelists: Whitney Behm, Manager, Comcast; Juliet Abruzz- ese, Manager, Comcast; Mylei Saltares, Sr. Recruiter, Com- cast; Himalay Khimani, Manager, Comcast",
+    "Label": "Breakout Session #2"
   },
   {
-  "Time": "",
-  "Title": "Track 5: Data In Business: Closing The Last First Mile Gap.",
-  "Subtitle": "",
-  "Location": "BALLROOM NORTH",
-  "Speakers": "Josée Poirier, Data Scientist, Pluralsight",
-  "Label": "Breakout Session #2"
+    "Time": "",
+    "Title": "Track 5: Data In Business: Closing The Last First Mile Gap.",
+    "Subtitle": "",
+    "Location": "BALLROOM NORTH",
+    "Speakers": "Josée Poirier, Data Scientist, Pluralsight",
+    "Label": "Breakout Session #2"
   },
   {
-  "Time": "2:25PM - 3:10PM",
-  "Title": "Track 1: Viewing Habits, GDPR, And CCPA. Private Information Or Public Data",
-  "Subtitle": "",
-  "Location": "SALON 3 & 4",
-  "Speakers": "Joshua Marpet, Red Lion",
-  "Label": "Breakout Session #3"
+    "Time": "2:25PM - 3:10PM",
+    "Title": "Track 1: Viewing Habits, GDPR, And CCPA. Private Information Or Public Data",
+    "Subtitle": "",
+    "Location": "SALON 3 & 4",
+    "Speakers": "Joshua Marpet, Red Lion",
+    "Label": "Breakout Session #3"
   },
   {
-  "Time": "",
-  "Title": "Track 2: Cloud Demystified",
-  "Subtitle": "",
-  "Location": "SALON 5 & 6",
-  "Speakers": "Fei Wan, Sr. Principal Architect, Comcast",
-  "Label": "Breakout Session #3"
+    "Time": "",
+    "Title": "Track 2: Cloud Demystified",
+    "Subtitle": "",
+    "Location": "SALON 5 & 6",
+    "Speakers": "Fei Wan, Sr. Principal Architect, Comcast",
+    "Label": "Breakout Session #3"
   },
   {
-  "Time": "",
-  "Title": "Track 3: Defining The Role Of The Citizen Data Scientist: Practical Applications & Tips To Maximize Impact",
-  "Subtitle": "",
-  "Location": "SALON 10",
-  "Speakers": "Grace Brevart, Senior Manager, Comcast",
-  "Label": "Breakout Session #3"
+    "Time": "",
+    "Title": "Track 3: Defining The Role Of The Citizen Data Scientist: Practical Applications & Tips To Maximize Impact",
+    "Subtitle": "",
+    "Location": "SALON 10",
+    "Speakers": "Grace Brevart, Senior Manager, Comcast",
+    "Label": "Breakout Session #3"
   },
   {
-  "Time": "",
-  "Title": "Track 4: Reshaping Business Using AI",
-  "Subtitle": "",
-  "Location": "BALLROOM NORTH",
-  "Speakers": "Sridhar Alla, Co-Founder & CTO, Blue Whale Preethi Bojja, Senior Data Scientist, Comcast",
-  "Label": "Breakout Session #3"
+    "Time": "",
+    "Title": "Track 4: Reshaping Business Using AI",
+    "Subtitle": "",
+    "Location": "BALLROOM NORTH",
+    "Speakers": "Sridhar Alla, Co-Founder & CTO, Blue Whale Preethi Bojja, Senior Data Scientist, Comcast",
+    "Label": "Breakout Session #3"
   },
   {
-  "Time": "",
-  "Title": "Track 5: Digital Tech, Social Media And Rethinking The Way Companies Use Data",
-  "Subtitle": "",
-  "Location": "LIBERTY BALLROOM",
-  "Speakers": "Nuno Leal, Senior Manager, EY",
-  "Label": "Breakout Session #3"
+    "Time": "",
+    "Title": "Track 5: Digital Tech, Social Media And Rethinking The Way Companies Use Data",
+    "Subtitle": "",
+    "Location": "LIBERTY BALLROOM",
+    "Speakers": "Nuno Leal, Senior Manager, EY",
+    "Label": "Breakout Session #3"
   },
   {
-  "Time": "3:10PM - 3:25PM",
-  "Title": "Break",
-  "Subtitle": "",
-  "Location": "",
-  "Speakers": "",
-  "Label": ""
+    "Time": "3:10PM - 3:25PM",
+    "Title": "Break",
+    "Subtitle": "",
+    "Location": "",
+    "Speakers": "",
+    "Label": ""
   },
   {
-  "Time": "3:25PM - 4:10PM",
-  "Title": "Track 1: How Consumer Insights Can Drive Tech Innovation",
-  "Subtitle": "",
-  "Location": "SALON 3 & 4",
-  "Speakers": "Cynthia Bean, Comcast",
-  "Label": "Breakout Session #4"
+    "Time": "3:25PM - 4:10PM",
+    "Title": "Track 1: How Consumer Insights Can Drive Tech Innovation",
+    "Subtitle": "",
+    "Location": "SALON 3 & 4",
+    "Speakers": "Cynthia Bean, Comcast",
+    "Label": "Breakout Session #4"
   },
   {
-  "Time": "",
-  "Title": "Track 2: Security Across The Enterprise And The Cloud",
-  "Subtitle": "",
-  "Location": "SALON 5 & 6",
-  "Speakers": "Sandra Wenzel, Consulting Engineer, Palo Alto Networks",
-  "Label": "Breakout Session #4"
+    "Time": "",
+    "Title": "Track 2: Security Across The Enterprise And The Cloud",
+    "Subtitle": "",
+    "Location": "SALON 5 & 6",
+    "Speakers": "Sandra Wenzel, Consulting Engineer, Palo Alto Networks",
+    "Label": "Breakout Session #4"
   },
   {
-  "Time": "",
-  "Title": "Track 3: The Convergence Of Emerging Technologies (Blockchain & AI)",
-  "Subtitle": "",
-  "Location": "SALON 10",
-  "Speakers": "Michael J. Riesen M.S.E., J.D., Partner, SGR Labs / Smith Gambrell and Russell, LLP",
-  "Label": "Breakout Session #4"
+    "Time": "",
+    "Title": "Track 3: The Convergence Of Emerging Technologies (Blockchain & AI)",
+    "Subtitle": "",
+    "Location": "SALON 10",
+    "Speakers": "Michael J. Riesen M.S.E., J.D., Partner, SGR Labs / Smith Gambrell and Russell, LLP",
+    "Label": "Breakout Session #4"
   },
   {
-  "Time": "",
-  "Title": "Track 4: Affective Computing And Emotional Intelligence",
-  "Subtitle": "",
-  "Location": "BALLROOM NORTH",
-  "Speakers": "Mark Francisco, Fellow, Comcast",
-  "Label": "Breakout Session #4"
+    "Time": "",
+    "Title": "Track 4: Affective Computing And Emotional Intelligence",
+    "Subtitle": "",
+    "Location": "BALLROOM NORTH",
+    "Speakers": "Mark Francisco, Fellow, Comcast",
+    "Label": "Breakout Session #4"
   },
   {
-  "Time": "",
-  "Title": "Track 5: Information Security",
-  "Subtitle": "",
-  "Location": "LIBERTY BALLROOM",
-  "Speakers": "Donna Ross, Chief Information Security Offcer, Radian Group",
-  "Label": "Breakout Session #4"
+    "Time": "",
+    "Title": "Track 5: Information Security",
+    "Subtitle": "",
+    "Location": "LIBERTY BALLROOM",
+    "Speakers": "Donna Ross, Chief Information Security Offcer, Radian Group",
+    "Label": "Breakout Session #4"
   },
   {
-  "Time": "4:15PM - 4:30PM",
-  "Title": "Closing Remarks",
-  "Subtitle": "",
-  "Location": "Liberty Ballroom",
-  "Speakers": "Jacquelyn Smith",
-  "Label": ""
+    "Time": "4:15PM - 4:30PM",
+    "Title": "Closing Remarks",
+    "Subtitle": "",
+    "Location": "Liberty Ballroom",
+    "Speakers": "Jacquelyn Smith",
+    "Label": ""
   }
-   ]
+]

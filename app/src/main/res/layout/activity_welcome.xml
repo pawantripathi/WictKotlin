@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical">
 
 
     <include
-        android:id="@+id/profile_details_toolbarview"
+        android:id="@+id/toolbarView"
         layout="@layout/title_only_toolbar" />
 
 
@@ -34,15 +36,14 @@
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:orientation="horizontal"
-                    >
+                    android:orientation="horizontal">
 
                     <ImageView
                         android:id="@+id/profile_detail_avatar"
-                        android:layout_width="180dp"
-                        android:layout_height="180dp"
+                        android:layout_width="140dp"
+                        android:layout_height="140dp"
                         android:scaleType="fitCenter"
-                        android:src="@drawable/ptripathi" />
+                        android:src="@drawable/vlisa" />
 
                     <LinearLayout
                         android:layout_width="wrap_content"
@@ -56,19 +57,19 @@
                             android:id="@+id/profile_name"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Designation"
+                            android:fontFamily="@font/gotham_book"
+                            android:text="Lisa Vetere"
                             android:textColor="@color/black"
-                            android:textSize="14sp"
-                            android:fontFamily="@font/gotham_medium"/>
+                            android:textSize="20sp" />
 
                         <TextView
                             android:id="@+id/profile_designation"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Designation"
+                            android:fontFamily="@font/gotham_book"
+                            android:text="@string/lisa_designation"
                             android:textColor="@color/black"
-                            android:textSize="12sp"
-                            android:fontFamily="@font/gotham_book"/>
+                            android:textSize="12sp" />
 
                     </LinearLayout>
 
@@ -76,18 +77,19 @@
 
 
                 <TextView
-                    android:id="@+id/profile_summary"
+                    android:id="@+id/invite_summary"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:fontFamily="@font/gotham_book"
                     android:padding="8dp"
-                    android:layout_marginTop="16dp"
-                    android:text="Some text"
-                    android:textSize="14sp"
-                    android:fontFamily="@font/gotham_book"/>
+                    android:textSize="12sp" />
 
             </LinearLayout>
 
         </android.support.v7.widget.CardView>
 
     </ScrollView>
+
+
 </LinearLayout>

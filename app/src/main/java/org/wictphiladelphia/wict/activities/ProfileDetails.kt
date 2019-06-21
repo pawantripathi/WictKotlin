@@ -61,16 +61,11 @@ class ProfileDetails: ModalActivity(){
         profile_name.text = profile?.name
 
         if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.N) {
-            profile_summary.text = Html.fromHtml(profile?.summary, Html.FROM_HTML_MODE_LEGACY)
+            profile_summary.text = Html.fromHtml(profile?.summary, Html.FROM_HTML_SEPARATOR_LINE_BREAK_PARAGRAPH)
         } else {
             profile_summary.text= Html.fromHtml(profile?.summary)
 
         }
-
-        LinkifyCompat.addLinks(profile_summary, Linkify.ALL)
-        profile_summary.linksClickable = true
-
-        profile_summary.movementMethod = LinkMovementMethod.getInstance()
 
 
     }
