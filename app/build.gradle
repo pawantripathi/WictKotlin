@@ -10,8 +10,8 @@ android {
         applicationId "org.wictphiladelphia.wict"
         minSdkVersion 21
         targetSdkVersion 27
-        versionCode 54
-        versionName "3.0.2"
+        versionCode 60
+        versionName "3.0.3"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
